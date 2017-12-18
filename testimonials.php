@@ -111,10 +111,9 @@ Date:        <dd-mm-yyyy>
 <!-- slide -->
 
 
-
-
-<div style="padding-left:120px">
-  <button style="background-color:red;color:white;font-size:24px;padding:10px 30px;">Button</button>
+  
+<div style="padding-left:237px">
+  <button style="background-color:black;color:white;font-size:24px;padding:10px 30px;">Students</button>
 </div>
 <div class="cd-testimonials-wrapper cd-container">
   <ul class="cd-testimonials">
