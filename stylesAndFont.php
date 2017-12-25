@@ -14,9 +14,11 @@
 
 <!-- User CSS -->
 <link rel="stylesheet" type="text/css" href="css/nadeem.css">
+<link rel="stylesheet" type="text/css" href="css/shakeel.css"> 
+<link rel="stylesheet" type="text/css" href="css/shakeel1.css"> 
 
-<<<<<<< HEAD
 <!--manju-->
 <link rel="stylesheet" type="text/css" href="css/style007.css">
-=======
->>>>>>> c14db1cdb1fbe6cdefc7101d6824dd25e02bc8a2
+
+<link rel="stylesheet" type="text/css" href="css/girish.css">
+
