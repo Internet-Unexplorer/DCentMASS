@@ -1,5 +1,7 @@
 <!-- Font family -->
 <link href="https://fonts.googleapis.com/css?family=Open+Sans|Poppins|Roboto|Titillium+Web" rel="stylesheet">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto">
 
 <link rel="stylesheet" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -12,14 +14,14 @@
 <link rel="stylesheet" type="text/css" href="css/style1.css">
 
 
+
+
 <!-- User CSS -->
 <link rel="stylesheet" type="text/css" href="css/nadeem.css">
-<<<<<<< HEAD
+
 
 
 
 <link rel="stylesheet" type="text/css" href="css/girish.css">
 
 
-=======
->>>>>>> 45f2393a2f6f5ea84950c799f6994026ad35be42

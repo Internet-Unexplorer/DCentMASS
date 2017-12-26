@@ -20,23 +20,24 @@ Date:        <dd-mm-yyyy>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
-  	<!-- Left bar starts -->
+    <!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">
-        <img src="images/dcentmass_png.png" class="img-responsive">
+        <img src="images/dcentmass_png.png" class="img-fluid">
       </div>
       <ul>
         <!-- User class="activeLink" to make links active -->
-        <li><a href="#">Home</a></li>
-        <li><a href="#">DCent MASS</a></li>
-        <li><a href="#">Our Services</a></li>
-        <li><a href="#">Student Hub</a></li>
-        <li><a href="#">Courses</a></li>
-        <li><a href="#">Events</a></li>
-        <li><a href="#">Media</a></li>
-        <li><a href="#">Forum</a></li>
-        <li><a href="#">Contact Us</a></li>
-        <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li>
+        <li class="activeLink"><a href="#"><i class="material-icons">home</i><span class="menuText">Home</span></a></li>
+        <li><a href="#"><i class="material-icons">language</i><span class="menuText">DCent MASS</span></a></li>
+        <li><a href="#"><i class="material-icons">settings_applications</i><span class="menuText">Our Services</span></a></li>
+        <li><a href="#"><i class="material-icons">group_work</i><span class="menuText">Student Hub</span></a></li>
+        <li><a href="#"><i class="material-icons">library_books</i><span class="menuText">Courses</span></a></li>
+        <li><a href="#"><i class="material-icons">event</i><span class="menuText">Events</span></a></li>
+        <li><a href="#"><i class="material-icons">perm_media</i><span class="menuText">Media</span></a></li>
+        <!-- <li><a href="#">Forum</a></li> -->
+        <li><a href="#"><i class="material-icons">contacts</i><span class="menuText">Contact Us</span></a></li>
+        <!-- <li style="border-bottom:  2px solid #06f;"><a href="#"></a></li> -->
+        <!-- <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li> -->
       </ul>
      </div>
      <!-- Left bar ends -->
@@ -52,17 +53,17 @@ Date:        <dd-mm-yyyy>
         <li><a href="#">Courses</a></li>
         <li><a href="#">Events</a></li>
         <li><a href="#">Media</a></li>
-        <li><a href="#">Forum</a></li>
-        <li><a href="#">Contact Us</a></li>
-        <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li>
-      </ul>
+        <!-- <li><a href="#">Forum</a></li> -->
+        <li style="border-bottom:  2px solid #06f;"><a href="#">Contact Us</a></li>
+        <!-- <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li> -->
+  </ul>
 </div>
 
 <span id="openNavID" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
 <!-- Mobile bar ends here -->
      <!-- Right bar starts -->
      <div class="right-bars">
-     	<div class="righ-col-1"> <!-- User class="activeLink" to make links active -->
+      <div class="righ-col-1"> <!-- User class="activeLink" to make links active -->
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 1</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 2</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 3</span></div></a>
@@ -73,7 +74,7 @@ Date:        <dd-mm-yyyy>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 8</span></div></a>
          
       </div>
-     	<div class="righ-col-2"> <!-- User class="activeLink" to make links active -->
+      <div class="righ-col-2"> <!-- User class="activeLink" to make links active -->
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 9</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 10</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 11</span></div></a>
@@ -82,43 +83,33 @@ Date:        <dd-mm-yyyy>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 14</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 15</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 16</span></div></a>
-     	</div>
+      </div>
      </div>
      
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
-	<div class="container-fluid">
+  <div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
- 
- <div class="row">
-        <div class="col-md-8">
-            <div class="pageheading">
-                Hunt Your Dream Job
-            </div>
-            <div class="sideheading">
-              Be FIRST, Apply FIRST, Get hired NOW  
-            </div>
-            <div class="image">
-                <img src="images/seeker3.jpg" class="img-responsive">
-            </div>
-                   <!-- Drop down button -->
-                    
-                        <!-- Example single danger button -->
-                       <div class="coosejob">
-                       <div class="btn-group">
-                         <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                   Available Jobs
-                         </button>
-                         <div class="dropdown-menu">
-                           <a class="dropdown-item" href="#">Web Designer</a></br>
-                           <a class="dropdown-item" href="#">Android Developer</a>
-                           <a class="dropdown-item" href="#">Networking </a>
-                           <div class="dropdown-divider"></div>
-                           <a class="dropdown-item" href="#">Testing</a>
-                         </div>
-                       </div>
-                   </div>
+<span class="bgtext"> JOB SEEKER </span>
 
-             <div class="choosefile">
+<!-- Page heading -->
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-8">
+      <div class="pageheading">
+      Hunt Your Dream Job
+      </div>
+    
+      <div class="sideheading">
+        Be FIRST, Apply FIRST, Get hired NOW
+      </div>
+
+      <div class="imageteam">
+                <img src="images/seeker3.jpg" class="img-fluid">
+     </div>
+        
+       
+
+     <div class="choosefile">
                 <a href="#" class="btn btn-primary btn-md active" role="button" aria-pressed="true">Upload your Resume</a> 
             </div>     
              <div class="choosefile">
@@ -127,27 +118,30 @@ Date:        <dd-mm-yyyy>
                       <a href="#" class="btn btn-primary btn-md active" role="button" aria-pressed="true">Submit</a>   
                     
                 </div>
-
-
-              
-                  <!-- Drop down button ends-->
+   </div>
 
 
 
-         </div>
-        <div class="col-md-4">
-            <div class="righttext">
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 
-              
-            </div>
-            
+
+
+   <div class="col-md-4">
+     <div class="text">
+        <div class="content-text">
+          <h3 class="lead">
+            Project label
+          </h3>
+          <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+          </p>
         </div>
-    </div>
+      </div>
+   </div>
+</div>
+</div>
 
 
-
-   
+<div class="container-fluid">
     <div class="row">
         <div class="col-md-12">
             <div class="Partners">
@@ -169,21 +163,14 @@ Date:        <dd-mm-yyyy>
                 <div class="item active">
                     <div class="row">
 
-                      <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/Logo1.jpg" class="img-responsive"></a></div>
-                      <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/logo2.jpg" class="img-responsive"></a></div>
-                      <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/logo3.jpg" class="img-responsive"></a></div>
-                      <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/logo5.jpg" class="img-responsive"></a></div>
+                      <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/Logo1.jpg" class="img-fluid"></a></div>
+                      <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/logo2.jpg" class="img-fluid"></a></div>
+                      <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/logo3.jpg" class="img-fluid"></a></div>
+                      <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/logo5.jpg" class="img-fluid"></a></div>
                     </div><!--.row-->
                 </div><!--.item-->
                  
-                <div class="item">
-                    <div class="row">
-                    <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/logo6.jpg" class="img-responsive"></a></div>
-                    <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/logo7.jpg" class="img-responsive"></a></div>
-                    <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/logo8.jpg" class="img-responsive"></a></div>
-                    <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/Logo1.jpg" class="img-responsive"></a></div>
-                    </div><!--.row-->
-                </div><!--.item-->
+              
                  
                 <!--.item-->
                  
@@ -195,18 +182,10 @@ Date:        <dd-mm-yyyy>
             </div>
                  
         </div>
-
-
-<!-- ======================================================================================================= -->
+      </div>
 
 
 
-<!-- WRITE MAIN CONTENT HERE -->
-
-         
-<!-- MAIN CONTENT ENDS -->
-  </div>
-</div>
 
 
 
@@ -229,11 +208,8 @@ Date:        <dd-mm-yyyy>
 
 
 <!-- MAIN CONTENT ENDS -->
-	</div>
+  </div>
 </div>
 <?php include_once("script.php"); ?>
-<?php include_once("script.php"); ?>
-
-
 </body>
 </html>

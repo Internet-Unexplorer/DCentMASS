@@ -53,17 +53,10 @@ Date:        <dd-mm-yyyy>
         <li><a href="#">Courses</a></li>
         <li><a href="#">Events</a></li>
         <li><a href="#">Media</a></li>
-<<<<<<< HEAD
-        <li><a href="#">Forum</a></li>
-        <li><a href="#">Contact Us</a></li>
-        <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li>
-      </ul>
-=======
         <!-- <li><a href="#">Forum</a></li> -->
         <li style="border-bottom:  2px solid #06f;"><a href="#">Contact Us</a></li>
         <!-- <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li> -->
   </ul>
->>>>>>> c14db1cdb1fbe6cdefc7101d6824dd25e02bc8a2
 </div>
 
 <span id="openNavID" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
@@ -96,137 +89,226 @@ Date:        <dd-mm-yyyy>
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-<<<<<<< HEAD
- 
- <div class="row">
-        <div class="col-md-8">
-            <div class="pageheading">
-                Hunt Your Dream Job
-            </div>
-            <div class="sideheading">
-              Be FIRST, Apply FIRST, Get hired NOW  
-            </div>
-            <div class="image">
-                <img src="images/seeker3.jpg" class="img-responsive">
-            </div>
-                   <!-- Drop down button -->
-                    
-                        <!-- Example single danger button -->
-                       <div class="coosejob">
-                       <div class="btn-group">
-                         <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                   Available Jobs
-                         </button>
-                         <div class="dropdown-menu">
-                           <a class="dropdown-item" href="#">Web Designer</a></br>
-                           <a class="dropdown-item" href="#">Android Developer</a>
-                           <a class="dropdown-item" href="#">Networking </a>
-                           <div class="dropdown-divider"></div>
-                           <a class="dropdown-item" href="#">Testing</a>
-                         </div>
-                       </div>
-                   </div>
 
-             <div class="choosefile">
-                <a href="#" class="btn btn-primary btn-md active" role="button" aria-pressed="true">Upload your Resume</a> 
-            </div>     
-             <div class="choosefile">
-                <a href="#" class="btn btn-primary btn-md active" role="button" aria-pressed="true"> Upload your Photo </a> </div>
-                <div class="choosefile">
-                      <a href="#" class="btn btn-primary btn-md active" role="button" aria-pressed="true">Submit</a>   
-                    
-                </div>
-
-
-              
-                  <!-- Drop down button ends-->
+<span class="bgtext">OUR TEAM</span>
 
 
 
-         </div>
-        <div class="col-md-4">
-            <div class="righttext">
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-
-              
-            </div>
-            
-        </div>
-    </div>
 
 
-
-   
-    <div class="row">
-        <div class="col-md-12">
-            <div class="Partners">
-                Our partners
-            </div>    
-                <div id="Carousel" class="carousel slide">
-                    <div class="slider">
-                 
-                <ol class="carousel-indicators">
-                    <li data-target="#Carousel" data-slide-to="0" class="active"></li>
-                    <li data-target="#Carousel" data-slide-to="1"></li>
-                    <li data-target="#Carousel" data-slide-to="2"></li>
-                </ol>
-                 
-                <!-- Carousel items -->
-                
-                <div class="carousel-inner">
-                    
-                <div class="item active">
-                    <div class="row">
-
-                      <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/Logo1.jpg" class="img-responsive"></a></div>
-                      <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/logo2.jpg" class="img-responsive"></a></div>
-                      <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/logo3.jpg" class="img-responsive"></a></div>
-                      <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/logo5.jpg" class="img-responsive"></a></div>
-                    </div><!--.row-->
-                </div><!--.item-->
-                 
-                <div class="item">
-                    <div class="row">
-                    <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/logo6.jpg" class="img-responsive"></a></div>
-                    <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/logo7.jpg" class="img-responsive"></a></div>
-                    <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/logo8.jpg" class="img-responsive"></a></div>
-                    <div class="col-md-3"><a href="#" class="thumbnail"><img src="images/Logo1.jpg" class="img-responsive"></a></div>
-                    </div><!--.row-->
-                </div><!--.item-->
-                 
-                <!--.item-->
-                 
-                </div><!--.carousel-inner-->
-                  <a data-slide="prev" href="#Carousel" class="left carousel-control">‹</a>
-                  <a data-slide="next" href="#Carousel" class="right carousel-control">›</a>
-                </div>
-            </div><!--.Carousel-->
-            </div>
-                 
-        </div>
-
-
-<!-- ======================================================================================================= -->
-
-
-=======
-<span class="bgtext"> Background Text </span>
->>>>>>> c14db1cdb1fbe6cdefc7101d6824dd25e02bc8a2
 
 <!-- WRITE MAIN CONTENT HERE -->
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="pageheading">
+      OUR TEAM
+      </div>
+    </div>
+  </div>
+</div>
 
-         
-<!-- MAIN CONTENT ENDS -->
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="sideheading">
+          CEOs and DIRECTOR
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="memberimage">
+      <img src="images/member1.jpg" class="img-fluid" id="girish-image">
+    </div>
+    </div>
+    <div class="col-md-8">
+      <div class="memberinfo">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="memberimage">
+      <img src="images/member2.jpg" class="img-fluid" id="girish-image">
+    </div>
+    </div>
+    <div class="col-md-8">
+      <div class="memberinfo">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="memberimage">
+      <img src="images/member3.jpg" class="img-fluid" id="girish-image">
+    </div>
+    </div>
+    <div class="col-md-8">
+      <div class="memberinfo">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="sideheading1">
+          Our Trainers
+      </div>
+    </div>
   </div>
 </div>
 
 
 
+<div class="container-fluid">
+ <div class="row">
+  <div class="trainerss">
 
+  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project wow animated animated4 fadeInLeft">
+        <div class="project-hover">
+          <h2>Trainer1</h2>
+            
+            <hr />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar ex pulvinar est laoreet ullamcorper.</p>
+            <a href="#">Know more</a>
+        </div>
+    </div>
+  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project project-2 wow animated animated3 fadeInLeft">
+      <div class="project-hover">
+          <h2>Trainer2</h2>
+            <hr />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar ex pulvinar est laoreet ullamcorper.</p>
+            <a href="#">Know more</a>
+        </div>
+    </div>
+  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project project-3 wow animated animated2 fadeInLeft">
+      <div class="project-hover">
+          <h2>Trainer3</h2>
+            <hr />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar ex pulvinar est laoreet ullamcorper.</p>
+            <a href="#">Know more</a>
+        </div>
+    </div>
+  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project project-4 wow animated fadeInLeft">
+      <div class="project-hover">
+          <h2>Trainer4</h2>
+            <hr />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar ex pulvinar est laoreet ullamcorper.</p>
+            <a href="#">Know more</a>
+        </div>
+    </div>
+   </div>
+</div>
+</div>
 
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="buttons">
+      <button class="button" style="vertical-align:middle"><span> Know More </span></button>
+      </div>
+      </div>
+    </div>
+  </div>
+</div>
+ 
 
-<!-- WRITE MAIN CONTENT HERE -->
+<!-- NOTE: HR team starts here -->
 
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="sideheading1">
+          HR TEAM
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid">
+ <div class="row">
+  <div class="trainerss">
+
+  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project wow animated animated4 fadeInLeft">
+        <div class="project-hover">
+          <h2>HR 1</h2>
+            
+            <hr />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar ex pulvinar est laoreet ullamcorper.</p>
+            <a href="#">Know more</a>
+        </div>
+    </div>
+  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project project-2 wow animated animated3 fadeInLeft">
+      <div class="project-hover">
+          <h2>HR 2</h2>
+            <hr />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar ex pulvinar est laoreet ullamcorper.</p>
+            <a href="#">Know more</a>
+        </div>
+    </div>
+  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project project-3 wow animated animated2 fadeInLeft">
+      <div class="project-hover">
+          <h2>HR 3</h2>
+            <hr />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar ex pulvinar est laoreet ullamcorper.</p>
+            <a href="#">Know more</a>
+        </div>
+    </div>
+  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project project-4 wow animated fadeInLeft">
+      <div class="project-hover">
+          <h2>HR 4</h2>
+            <hr />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar ex pulvinar est laoreet ullamcorper.</p>
+            <a href="#">Know more</a>
+        </div>
+    </div>
+   </div>
+</div>
+</div>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="buttons">
+      <button class="button" style="vertical-align:middle"><span> Know More </span></button>
+      </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 <!-- NOTE: Please keep your code clean + readable and add comments -->
@@ -236,16 +318,10 @@ Date:        <dd-mm-yyyy>
 
 
 
-
-
-
-
 <!-- MAIN CONTENT ENDS -->
 	</div>
 </div>
-<?php include_once("script.php"); ?>
-<?php include_once("script.php"); ?>
 
-
+<?php include_once("script.php"); ?>
 </body>
 </html>
