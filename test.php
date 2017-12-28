@@ -23,7 +23,6 @@ if(isset($_POST["emailcheck"])){
 ?><?php
 // Ajax calls this REGISTRATION code to execute
 if(isset($_POST["u"])){
-	// CONNECT TO THE DATABASE
 	
 	// GATHER THE POSTED DATA INTO LOCAL VARIABLES
 	$u = preg_replace('#[^a-z0-9]#i', '', $_POST['u']);
@@ -136,6 +135,7 @@ if(isset($_POST["u"])){
 <?php include_once("script.php"); ?>
 
   <script>
+  
     function restrict(elem){
 	var tf = _(elem);
 	var rx = new RegExp;
@@ -154,7 +154,7 @@ if(isset($_POST["u"])){
 	status.style.display = "none";
 }
 
-
+ 
 function checkemail(){
 	var u = _("email").value;
 	if(u != ""){
