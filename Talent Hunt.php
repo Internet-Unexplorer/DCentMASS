@@ -16,7 +16,7 @@ Date:        <dd-mm-yyyy>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Title</title>
+    <title>Talent Hunt</title>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
@@ -89,7 +89,7 @@ Date:        <dd-mm-yyyy>
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-<span class="bgtext">Template</span>
+
 
 
 
@@ -102,12 +102,12 @@ Date:        <dd-mm-yyyy>
 <div class="col-md-10">
 
   <span class="bgtext"> TALENT HUNT </span>
- <center><img src="images/th2.png"  class="img-fluid">  </center>  
+ <center><img src="images/th2.png"  class="img-fluid">  </center>  <br> 
 
- <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p> 
+ <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p> <br> 
 
 
-<iframe width="350" height="220" src="#">
+<iframe width="350" height="220" src="#https://www.youtube.com/watch?v=RBumgq5yVrA">
 </iframe>
 
 <p>  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ev  er since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the . </p>
@@ -115,17 +115,17 @@ Date:        <dd-mm-yyyy>
 </div>
 
 
-<div class="col-md-2"> 
-<div class="sridhar-card4 card">
- <!--  <div style="background-color:#3EB6C2" class="card-body"><br> -->
+<div class="col-md-2" style="position: fixed; margin-left:62% "  > 
+
+  <div style="background-color:#060000 ;height: 100rem; color: white;" class="card-body"><br>
 
     <br> <br>  <br>
-    <p><center> Present To Anyone, Attend From Anywhere</p> <br> <br> <br> 
+    <p><center> Lorem Ipsum is simply dummy text </p> <br> <br> <br> 
 
     
 
-     <p> Turn a presentation into a  conversation and a conversation into a sale</p></center> 
-    <img src="images/th1.png" class="sridhar-imglast img-fluid"> 
+     <p> Lorem Ipsum is simply dummy text  </p></center> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+    <img src="images/th1.png" class="img-fluid" > 
 
 
 
@@ -134,6 +134,7 @@ Date:        <dd-mm-yyyy>
 
 </div>
 </div> 
+
 
 
 
