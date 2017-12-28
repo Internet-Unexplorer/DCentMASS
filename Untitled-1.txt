@@ -31,10 +31,11 @@ SUCO is a developement company
 -BOP
 -Web developement
 -Softwarement developement
--Digital marketin
+-Digital marketing
+
+
+Products:
 
 
 
-[credential]
-  helper = osxkeychain
-  useHttpPath = true
+Partners:

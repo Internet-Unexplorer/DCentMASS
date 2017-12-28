@@ -1,4 +1,4 @@
- <?php
+<?php
 /*
 Author name: <Your name>;
 E-mail ID:   <Your E-mail ID>
@@ -16,14 +16,20 @@ Date:        <dd-mm-yyyy>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Single Scrolling</title>
+    <title>Title</title>
     <?php include_once("stylesAndFont.php"); ?>
+
+     <style>
+  body {
+      position: relative; 
+  }
+  </style>
 </head>
-<body>
+<body data-spy="scroll" data-offset="50">
   	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">
-        <img src="images/dcentmass_png.png" class="img-fluid">
+        <img src="images/dcentmass_png.png"  class="img-fluid">
       </div>
       <ul>
         <!-- User class="activeLink" to make links active -->
@@ -37,7 +43,7 @@ Date:        <dd-mm-yyyy>
         <!-- <li><a href="#">Forum</a></li> -->
         <li><a href="#"><i class="material-icons">contacts</i><span class="menuText">Contact Us</span></a></li>
         <!-- <li style="border-bottom:  2px solid #06f;"><a href="#"></a></li> -->
-        <!-- <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li> -->
+        <!-- <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li> -->    
       </ul>
      </div>
      <!-- Left bar ends -->
@@ -89,7 +95,31 @@ Date:        <dd-mm-yyyy>
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-<span class="bgtext"> Background Text </span>
+<div id="section1" class="container-fluid bg-success" style="padding-top:140px;padding-bottom:140px; height: 700px;">
+  <h1>Section 1</h1>
+
+</div>
+
+<div id="section2" class="container-fluid bg-warning" style="padding-top:140px;padding-bottom:140px; height: 700px;">
+  <h1>Section 2</h1>
+  
+</div>
+
+<div id="section3" class="container-fluid bg-secondary" style="padding-top:140px;padding-bottom:140px;height: 700px;">
+  <h1>Section 3</h1>
+
+</div>
+
+<div id="section41" class="container-fluid bg-danger" style="padding-top:140px;padding-bottom:140px;height:700px;">
+  <h1>Section 4 Submenu 1</h1>
+
+</div>
+
+<div id="section42" class="container-fluid bg-info" style="padding-top:140px;padding-bottom:140px;height: 700px;">
+  <h1>Section 4 Submenu 2</h1>
+  
+</div>                                   
+
 
 
 
@@ -99,35 +129,12 @@ Date:        <dd-mm-yyyy>
 
 <!-- WRITE MAIN CONTENT HERE -->
 
-<nav id="section-menu">
-  <ul></ul>
-</nav>
-<section id="section-one" class="section scroll-item" title="One">
-  <div class="inner">
-    <h2>One</h2>
-  </div>
-</section>
-<section id="section-two" class="section scroll-item" title="Two">
-  <div class="inner">
-    <h2>Two</h2>
-  </div>
-</section>
-<section id="section-three" class="section scroll-item" title="Three">
-  <div class="inner">
-    <h2>Three</h2>
-  </div>
-</section>
-<section id="section-four" class="section scroll-item" title="Four">
-  <div class="inner">
-    <h2>Four</h2>
-  </div>
-</section>
-<section id="section-five" class="section scroll-item" title="Five">
-  <div class="inner">
-    <h2>Five</h2>
-  </div>
-</section>
-<script type="text/javascript" src="script.js"></script>
+
+
+
+
+
+
 
 <!-- NOTE: Please keep your code clean + readable and add comments -->
 

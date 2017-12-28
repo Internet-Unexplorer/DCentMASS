@@ -1,4 +1,4 @@
- <?php
+<?php
 /*
 Author name: <Your name>;
 E-mail ID:   <Your E-mail ID>
@@ -16,7 +16,7 @@ Date:        <dd-mm-yyyy>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Single Scrolling</title>
+    <title>Title</title>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
@@ -89,7 +89,7 @@ Date:        <dd-mm-yyyy>
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-<span class="bgtext"> Background Text </span>
+<span class="bgtext"> Interview services </span>
 
 
 
@@ -99,35 +99,64 @@ Date:        <dd-mm-yyyy>
 
 <!-- WRITE MAIN CONTENT HERE -->
 
-<nav id="section-menu">
-  <ul></ul>
-</nav>
-<section id="section-one" class="section scroll-item" title="One">
-  <div class="inner">
-    <h2>One</h2>
-  </div>
-</section>
-<section id="section-two" class="section scroll-item" title="Two">
-  <div class="inner">
-    <h2>Two</h2>
-  </div>
-</section>
-<section id="section-three" class="section scroll-item" title="Three">
-  <div class="inner">
-    <h2>Three</h2>
-  </div>
-</section>
-<section id="section-four" class="section scroll-item" title="Four">
-  <div class="inner">
-    <h2>Four</h2>
-  </div>
-</section>
-<section id="section-five" class="section scroll-item" title="Five">
-  <div class="inner">
-    <h2>Five</h2>
-  </div>
-</section>
-<script type="text/javascript" src="script.js"></script>
+
+
+
+<h1> Interview Services (RPO)</h1>
+<div class="row stsiscards" >
+
+<div class="col-md-6 stsiscardcol" >   
+
+Hudson RPO services allows both large and mid-sized companies to attain a world-class recruitment function. Our recruitment process outsourcing team works seamlessly within your HR management structure. A comprehensive HR solution can manage the entire recruitment lifecycle for your professional-level staff, or you can selectively use our expertise where your business needs it most.
+</div>
+
+<div class="col-md-6">
+   <img src="images/interview-services.jpg" class="img-fluid">
+</div>
+
+<br><br><br><br><br><br><br><br><br><br><br>
+
+
+<h5>WHY USE RECRUITMENT PROCESS OUTSOURCING SERVICES?</h5>
+
+As business begins to pick up and your company is ready to grow again, your volume of requests for new hires can skyrocket. Most HR departments simply don't have enough bandwidth to cover all of their company's recruiting needs in this situation. Hudson RPO is ready to step into your existing structure to augment the recruitment process throughout the entire enterprise or wherever you need us.
+
+Using recruitment process outsourcing for a department where you have the heaviest need, such as Sales or R&D, can lower your cost and reduce time-to-fill while providing consistency and uniformity within the workforce. Hudson RPO can also manage all the sourcing, screening, and measurement tactics for your entire organization, while your existing HR team handles the interviewing, hiring and on boarding processes. Choosing which portions of the recruitment process you want to outsource, provides the flexibility to decide what is best for your business.
+</div>
+
+
+<div class="container stsiscards">
+<h5>BENEFITS OF RPO SOLUTIONS</h5>
+
+
+<ul style="padding:10px;">
+   <li>Measurable results — SLA and KPI driven metrics and outcomes</li>
+   <li>Lowered cost & shared risk — Flexible and scalable to accommodate your fluctuating needs</li>
+   <li>Reduced time-to-fill — Multi-tiered sourcing strategy accelerates the process</li>
+   <li>Optimized technology — Vendor neutral approach to assessing either existing or new systems</li>
+   <li>System-wide savings — Economies of scale reduce cost</li>
+   <li>Consistency — Streamlines recruiting functions across multiple regions / business units</li>
+   <li>Uniformity — Promotes and protects your branding worldwide</li>
+   <li>Elite talent — Global bandwidth and high-touch approach attract top talent</li>
+   <li>Compliance — Meet industry and governance regulations</li>
+   <li>Centralization — Global account management and vendor management</li>
+   <li>Quality — Use our proprietary assessment tools and interview techniques to find the best person for the job</li>
+
+</ul>
+
+
+
+<h5>ARE RECRUITMENT PROCESS OUTSOURCING SERVICES FOR YOU?</h5>
+<div class="row"    >
+   <div class="col-md-6"> 
+Upon review of your business goals and a formal assessment of your current recruitment management process, we'll recommend a plan of action with all key components tailored to your needs.
+</div>
+<div class="col-md-6">
+   <button class="btn btn-success ">Request a Proposal</button>
+</div> 
+</div>
+
+
 
 <!-- NOTE: Please keep your code clean + readable and add comments -->
 

@@ -1,4 +1,4 @@
- <?php
+<?php
 /*
 Author name: <Your name>;
 E-mail ID:   <Your E-mail ID>
@@ -16,7 +16,7 @@ Date:        <dd-mm-yyyy>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Single Scrolling</title>
+    <title>Title</title>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
@@ -89,7 +89,7 @@ Date:        <dd-mm-yyyy>
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-<span class="bgtext"> Background Text </span>
+<span class="bgtext"> Projects </span>
 
 
 
@@ -99,35 +99,26 @@ Date:        <dd-mm-yyyy>
 
 <!-- WRITE MAIN CONTENT HERE -->
 
-<nav id="section-menu">
-  <ul></ul>
-</nav>
-<section id="section-one" class="section scroll-item" title="One">
-  <div class="inner">
-    <h2>One</h2>
-  </div>
-</section>
-<section id="section-two" class="section scroll-item" title="Two">
-  <div class="inner">
-    <h2>Two</h2>
-  </div>
-</section>
-<section id="section-three" class="section scroll-item" title="Three">
-  <div class="inner">
-    <h2>Three</h2>
-  </div>
-</section>
-<section id="section-four" class="section scroll-item" title="Four">
-  <div class="inner">
-    <h2>Four</h2>
-  </div>
-</section>
-<section id="section-five" class="section scroll-item" title="Five">
-  <div class="inner">
-    <h2>Five</h2>
-  </div>
-</section>
-<script type="text/javascript" src="script.js"></script>
+
+<h1>Projects</h1>
+
+
+
+
+
+We develop, guide and train students on their final year projects so that they score the best of marke in their final years. Our training is based on live projects and we ensure students get practical knowledge on the working and technical details of the project. We also provide a wide range of free projects for download online so that you may use them to practics at home. Developers at nevonprojects do their best to solve all queries and doubts regarding students final year projects. We excel at final year projects for eee or Ieee. We also make projects as per various ieee papers and suggestions.
+
+
+<div class="row stsiscards" >
+
+<h3>Project Categories</h3> 
+<div class="col-md-6 stsiscardcol">
+<div class="col-md-6 stsiscardcol">
+<div class="col-md-6 stsiscardcol">
+<div class="col-md-6 stsiscardcol">
+
+
+
 
 <!-- NOTE: Please keep your code clean + readable and add comments -->
 
