@@ -106,6 +106,34 @@ Date:        <dd-mm-yyyy>
       <div class="imageteam">
                 <img src="images/seeker3.jpg" class="img-fluid">
      </div>
+
+     <form class="form-horizontal">
+<fieldset>
+
+<!-- Form Name -->
+<legend>Serch Jobs</legend>
+
+<!-- Search input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="searchinput">Search job</label>
+  <div class="col-md-4">
+    <input id="searchinput" name="searchinput" type="search" placeholder="placeholder" class="form-control input-md">
+    </div>
+  <label class="col-md-4 control-label" for="textinput">Text Input</label>  
+  <div class="col-md-4">
+  <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md">
+  </div>
+</div>
+
+<!-- Text input-->
+
+
+<!-- Text input-->
+
+
+</fieldset>
+</form>
+
         
        
 
