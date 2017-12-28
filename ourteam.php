@@ -23,20 +23,21 @@ Date:        <dd-mm-yyyy>
   	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">
-        <img src="images/dcentmass_png.png" class="img-responsive">
+        <img src="images/dcentmass_png.png" class="img-fluid">
       </div>
       <ul>
         <!-- User class="activeLink" to make links active -->
-        <li><a href="#">Home</a></li>
-        <li><a href="#">DCent MASS</a></li>
-        <li><a href="#">Our Services</a></li>
-        <li><a href="#">Student Hub</a></li>
-        <li><a href="#">Courses</a></li>
-        <li><a href="#">Events</a></li>
-        <li><a href="#">Media</a></li>
-        <li><a href="#">Forum</a></li>
-        <li><a href="#">Contact Us</a></li>
-        <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li>
+        <li class="activeLink"><a href="#"><i class="material-icons">home</i><span class="menuText">Home</span></a></li>
+        <li><a href="#"><i class="material-icons">language</i><span class="menuText">DCent MASS</span></a></li>
+        <li><a href="#"><i class="material-icons">settings_applications</i><span class="menuText">Our Services</span></a></li>
+        <li><a href="#"><i class="material-icons">group_work</i><span class="menuText">Student Hub</span></a></li>
+        <li><a href="#"><i class="material-icons">library_books</i><span class="menuText">Courses</span></a></li>
+        <li><a href="#"><i class="material-icons">event</i><span class="menuText">Events</span></a></li>
+        <li><a href="#"><i class="material-icons">perm_media</i><span class="menuText">Media</span></a></li>
+        <!-- <li><a href="#">Forum</a></li> -->
+        <li><a href="#"><i class="material-icons">contacts</i><span class="menuText">Contact Us</span></a></li>
+        <!-- <li style="border-bottom:  2px solid #06f;"><a href="#"></a></li> -->
+        <!-- <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li> -->
       </ul>
      </div>
      <!-- Left bar ends -->
@@ -52,10 +53,10 @@ Date:        <dd-mm-yyyy>
         <li><a href="#">Courses</a></li>
         <li><a href="#">Events</a></li>
         <li><a href="#">Media</a></li>
-        <li><a href="#">Forum</a></li>
-        <li><a href="#">Contact Us</a></li>
-        <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li>
-      </ul>
+        <!-- <li><a href="#">Forum</a></li> -->
+        <li style="border-bottom:  2px solid #06f;"><a href="#">Contact Us</a></li>
+        <!-- <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li> -->
+  </ul>
 </div>
 
 <span id="openNavID" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
@@ -89,300 +90,225 @@ Date:        <dd-mm-yyyy>
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
 
-<div class="row">
-        <div class="col-md-12">
-            <div class="pageheading">
-               Meet Our Team 
-            </div>
-        </div>
-    </div> 
-    <div class="row">
-        <div class="col-md-12">
-            <div class="sideheading">
-               CEOs and Founders 
-            </div>
-        </div>
-    </div>   
-      <div class="row">
-        <div class="col-md-4">
-            <div class="member1">
-                <img src="images/member.png" class="img-responsive" id="girish-image-ourteam">
-            </div>
-         </div>   
-        <div class="col-md-8">
-            <div class="memberinfo">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-            </div>
-                   
-         </div>
-      </div> 
-      <div class="row">
-        <div class="col-md-4">
-            <div class="member1">
-                <img src="images/member2.jpg" class="img-responsive" id="girish-image-ourteam">
-            </div>
-         </div>   
-        <div class="col-md-8">
-            <div class="memberinfo">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-            </div>
-                   
-         </div>
-      </div> 
-       <div class="row">
-        <div class="col-md-4">
-            <div class="member1">
-                <img src="images/member.png" class="img-responsive" id="girish-image-ourteam">
-            </div>
-         </div>   
-        <div class="col-md-8">
-            <div class="memberinfo">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-            </div>
-                   
-         </div>
-      </div> 
+<span class="bgtext">OUR TEAM</span>
 
 
 
-
-      
-    
-    <!-- carousal begins here -->
-
-    <div class="row">
-        <div class="col-md-12">
-            <div class="sideheading">
-               Our Trainers
-            </div>
-        </div>
-    </div>
-
-    <div class="row">
-      <div id="adv_team_4_columns_carousel" class="carousel slide four_shows_one_move team_columns_carousel_wrapper" data-ride="carousel" data-interval="2000" data-pause="hover">
-         <!--========= Wrapper for slides =========-->
-         <div class="carousel-inner" role="listbox">
-            <!--========= 1st slide =========-->
-            <div class="item">
-               <div class="col-xs-12 col-sm-6 col-md-3 team_columns_item_image">
-                  <img src="images/member1.jpg" class="img-responsive">
-                  <div class="team_columns_item_caption">
-                     <h4>Trainer1 </h4>
-                     <hr>
-                     <h5>Web Developer</h5>
-                  </div>
-               </div>
-               <div class="col-xs-12 col-sm-6 col-md-3 team_columns_item_image cloneditem-1">
-                  <img src="images/member2.jpg" class="img-responsive">
-                  <div class="team_columns_item_caption">
-                     <h4>Trainer2</h4>
-                     <hr>
-                     <h5>Networking</h5>
-                  </div>
-               </div>
-               <div class="col-xs-12 col-sm-6 col-md-3 team_columns_item_image cloneditem-2">
-                  <img src="images/member3.jpg" class="img-responsive">
-                  <div class="team_columns_item_caption">
-                     <h4>Trainer3</h4>
-                     <hr>
-                     <h5>Android</h5>
-                  </div>
-               </div>
-               <div class="col-xs-12 col-sm-6 col-md-3 team_columns_item_image cloneditem-3">
-                  <img src="images/member1.jpg" class="img-responsive">
-                  <div class="team_columns_item_caption">
-                     <h4>Trainer4</h4>
-                     <hr>
-                     <h5>.net</h5>
-                  </div>
-               </div>
-            </div>
-            <!--========= 2nd slide =========-->
-            <div class="item active">
-               <div class="col-xs-12 col-sm-6 col-md-3 team_columns_item_image">
-                  <img src="images/member2.jpg" class="img-responsive">
-                  <div class="team_columns_item_caption">
-                     <h4>Trainer5</h4>
-                     <hr>
-                     <h5>Testing</h5>
-                  </div>
-               </div>
-               <div class="col-xs-12 col-sm-6 col-md-3 team_columns_item_image cloneditem-1">
-                  <img src="images/member3.jpg" class="img-responsive">
-                  <div class="team_columns_item_caption">
-                     <h4>Trainer6</h4>
-                     <hr>
-                     <h5>Soft Skills</h5>
-                  </div>
-               </div>
-               <div class="col-xs-12 col-sm-6 col-md-3 team_columns_item_image cloneditem-2">
-                  <img src="images/member1.jpg" class="img-responsive">
-                  <div class="team_columns_item_caption">
-                     <h4>Trainer7</h4>
-                     <hr>
-                     <h5>Data Science</h5>
-                  </div>
-               </div>
-               <div class="col-xs-12 col-sm-6 col-md-3 team_columns_item_image cloneditem-3">
-                  <img src="images/member2.jpg" class="img-responsive">
-                  <div class="team_columns_item_caption">
-                     <h4>Trainer8</h4>
-                     <hr>
-                     <h5>Application Developer</h5>
-                  </div>
-               </div>
-            </div>
-
-            <div class="container-fluid" id="girish-button">
-                <div class="row">
-                    <div class="col-md-12">
-            <button type="button" class="btn btn-secondary btn-lg">Know More</button>
-            </div>
-        </div>
-    </div>
-                   <!--========= End of slides =========-->
-            
-         </div>
-         <!--======= Navigation Buttons =========-->
-         <!--======= Left Button =========-->
-         <a class="left carousel-control team_columns_carousel_control_left adv_left" href="#adv_team_4_columns_carousel" role="button" data-slide="prev">
-         <span class="fa fa-angle-left team_columns_carousel_control_icons" aria-hidden="true"></span>
-         <span class="sr-only">Previous</span>
-         </a>
-         <!--======= Right Button =========-->
-         <a class="right carousel-control team_columns_carousel_control_right adv_right" href="#adv_team_4_columns_carousel" role="button" data-slide="next">
-         <span class="fa fa-angle-right team_columns_carousel_control_icons" aria-hidden="true"></span>
-         <span class="sr-only">Next</span>
-         </a>
-      </div>
-   </div>
-
-
-
-<!-- Carosal ends here  -->
-<!-- ========================================================================================= -->
-
-<div class="row">
-        <div class="col-md-12">
-            <div class="sideheading">
-               HR Team
-            </div>
-        </div>
-    </div>
-
-    <div class="row">
-      <div id="adv_team_4_columns_carousel2" class="carousel slide four_shows_one_move team_columns_carousel_wrapper" data-ride="carousel" data-interval="2000" data-pause="hover">
-         <!--========= Wrapper for slides =========-->
-         <div class="carousel-inner" role="listbox">
-            <!--========= 1st slide =========-->
-            <div class="item">
-               <div class="col-xs-12 col-sm-6 col-md-3 team_columns_item_image">
-                  <img src="images/member1.jpg" class="img-responsive">
-                  <div class="team_columns_item_caption">
-                     <h4> Trainer1 </h4>
-                     <hr>
-                     <h5>Web Developer</h5>
-                  </div>
-               </div>
-               <div class="col-xs-12 col-sm-6 col-md-3 team_columns_item_image cloneditem-1">
-                  <img src="images/member2.jpg" class="img-responsive">
-                  <div class="team_columns_item_caption">
-                     <h4>Trainer2</h4>
-                     <hr>
-                     <h5>Networking</h5>
-                  </div>
-               </div>
-               <div class="col-xs-12 col-sm-6 col-md-3 team_columns_item_image cloneditem-2">
-                  <img src="images/member3.jpg" class="img-responsive">
-                  <div class="team_columns_item_caption">
-                     <h4>Trainer3</h4>
-                     <hr>
-                     <h5>Android</h5>
-                  </div>
-               </div>
-               <div class="col-xs-12 col-sm-6 col-md-3 team_columns_item_image cloneditem-3">
-                  <img src="images/member1.jpg" class="img-responsive">
-                  <div class="team_columns_item_caption">
-                     <h4>Trainer4</h4>
-                     <hr>
-                     <h5>.net</h5>
-                  </div>
-               </div>
-            </div>
-            <!--========= 2nd slide =========-->
-            <div class="item active">
-               <div class="col-xs-12 col-sm-6 col-md-3 team_columns_item_image">
-                  <img src="images/member2.jpg" class="img-responsive">
-                  <div class="team_columns_item_caption">
-                     <h4>Trainer5</h4>
-                     <hr>
-                     <h5>Testing</h5>
-                  </div>
-               </div>
-               <div class="col-xs-12 col-sm-6 col-md-3 team_columns_item_image cloneditem-1">
-                  <img src="images/member3.jpg" class="img-responsive">
-                  <div class="team_columns_item_caption">
-                     <h4>Trainer6</h4>
-                     <hr>
-                     <h5>Soft Skills</h5>
-                  </div>
-               </div>
-               <div class="col-xs-12 col-sm-6 col-md-3 team_columns_item_image cloneditem-2">
-                  <img src="images/member1.jpg" class="img-responsive">
-                  <div class="team_columns_item_caption">
-                     <h4>Trainer7</h4>
-                     <hr>
-                     <h5>Data Science</h5>
-                  </div>
-               </div>
-               <div class="col-xs-12 col-sm-6 col-md-3 team_columns_item_image cloneditem-3">
-                  <img src="images/member2.jpg" class="img-responsive">
-                  <div class="team_columns_item_caption">
-                     <h4>Trainer8</h4>
-                     <hr>
-                     <h5>Application Developer</h5>
-                  </div>
-               </div>
-            </div>
-
-            
-                   <!--========= End of slides =========-->
-            
-         </div>
-         <!--======= Navigation Buttons =========-->
-         <!--======= Left Button =========-->
-         
-         <a class="left carousel-control team_columns_carousel_control_left adv_left" href="#adv_team_4_columns_carousel2" role="button" data-slide="prev">
-         <span class="fa fa-angle-left team_columns_carousel_control_icons" aria-hidden="true"></span>
-         <span class="sr-only">Previous</span>
-         </a>
-         <!--======= Right Button =========-->
-         <a class="right carousel-control team_columns_carousel_control_right adv_right" href="#adv_team_4_columns_carousel2" role="button" data-slide="next">
-         <span class="fa fa-angle-right team_columns_carousel_control_icons" aria-hidden="true"></span>
-         <span class="sr-only">Next</span>
-         </a>
-      </div>
-   </div>
-
-
-<!-- ======================================================================================================= -->
 
 
 
 <!-- WRITE MAIN CONTENT HERE -->
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="pageheading">
+      OUR TEAM
+      </div>
+    </div>
+  </div>
+</div>
 
-         
-<!-- MAIN CONTENT ENDS -->
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="sideheading">
+          CEOs and DIRECTOR
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="memberimage">
+      <img src="images/member1.jpg" class="img-fluid" id="girish-image">
+    </div>
+    </div>
+    <div class="col-md-8">
+      <div class="memberinfo">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="memberimage">
+      <img src="images/member2.jpg" class="img-fluid" id="girish-image">
+    </div>
+    </div>
+    <div class="col-md-8">
+      <div class="memberinfo">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="memberimage">
+      <img src="images/member3.jpg" class="img-fluid" id="girish-image">
+    </div>
+    </div>
+    <div class="col-md-8">
+      <div class="memberinfo">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="sideheading1">
+          Our Trainers
+      </div>
+    </div>
   </div>
 </div>
 
 
 
+<div class="container-fluid">
+ <div class="row">
+  <div class="trainerss">
 
+  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project wow animated animated4 fadeInLeft">
+        <div class="project-hover">
+          <h2>Trainer1</h2>
+            
+            <hr />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar ex pulvinar est laoreet ullamcorper.</p>
+            <a href="#">Know more</a>
+        </div>
+    </div>
+  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project project-2 wow animated animated3 fadeInLeft">
+      <div class="project-hover">
+          <h2>Trainer2</h2>
+            <hr />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar ex pulvinar est laoreet ullamcorper.</p>
+            <a href="#">Know more</a>
+        </div>
+    </div>
+  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project project-3 wow animated animated2 fadeInLeft">
+      <div class="project-hover">
+          <h2>Trainer3</h2>
+            <hr />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar ex pulvinar est laoreet ullamcorper.</p>
+            <a href="#">Know more</a>
+        </div>
+    </div>
+  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project project-4 wow animated fadeInLeft">
+      <div class="project-hover">
+          <h2>Trainer4</h2>
+            <hr />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar ex pulvinar est laoreet ullamcorper.</p>
+            <a href="#">Know more</a>
+        </div>
+    </div>
+   </div>
+</div>
+</div>
 
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="buttons">
+      <button class="button" style="vertical-align:middle"><span> Know More </span></button>
+      </div>
+      </div>
+    </div>
+  </div>
+</div>
+ 
 
-<!-- WRITE MAIN CONTENT HERE -->
+<!-- NOTE: HR team starts here -->
 
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="sideheading1">
+          HR TEAM
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid">
+ <div class="row">
+  <div class="trainerss">
+
+  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project wow animated animated4 fadeInLeft">
+        <div class="project-hover">
+          <h2>HR 1</h2>
+            
+            <hr />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar ex pulvinar est laoreet ullamcorper.</p>
+            <a href="#">Know more</a>
+        </div>
+    </div>
+  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project project-2 wow animated animated3 fadeInLeft">
+      <div class="project-hover">
+          <h2>HR 2</h2>
+            <hr />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar ex pulvinar est laoreet ullamcorper.</p>
+            <a href="#">Know more</a>
+        </div>
+    </div>
+  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project project-3 wow animated animated2 fadeInLeft">
+      <div class="project-hover">
+          <h2>HR 3</h2>
+            <hr />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar ex pulvinar est laoreet ullamcorper.</p>
+            <a href="#">Know more</a>
+        </div>
+    </div>
+  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project project-4 wow animated fadeInLeft">
+      <div class="project-hover">
+          <h2>HR 4</h2>
+            <hr />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar ex pulvinar est laoreet ullamcorper.</p>
+            <a href="#">Know more</a>
+        </div>
+    </div>
+   </div>
+</div>
+</div>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="buttons">
+      <button class="button" style="vertical-align:middle"><span> Know More </span></button>
+      </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 <!-- NOTE: Please keep your code clean + readable and add comments -->
@@ -392,16 +318,10 @@ Date:        <dd-mm-yyyy>
 
 
 
-
-
-
-
 <!-- MAIN CONTENT ENDS -->
 	</div>
 </div>
-<?php include_once("script.php"); ?>
-<?php include_once("script.php"); ?>
 
-
+<?php include_once("script.php"); ?>
 </body>
 </html>
