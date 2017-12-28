@@ -18,12 +18,18 @@ Date:        <dd-mm-yyyy>
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Title</title>
     <?php include_once("stylesAndFont.php"); ?>
+
+     <style>
+  body {
+      position: relative; 
+  }
+  </style>
 </head>
-<body>
-    <!-- Left bar starts -->
+<body data-spy="scroll" data-offset="50">
+  	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">
-        <img src="images/dcentmass_png.png" class="img-fluid">
+        <img src="images/dcentmass_png.png"  class="img-fluid">
       </div>
       <ul>
         <!-- User class="activeLink" to make links active -->
@@ -37,7 +43,7 @@ Date:        <dd-mm-yyyy>
         <!-- <li><a href="#">Forum</a></li> -->
         <li><a href="#"><i class="material-icons">contacts</i><span class="menuText">Contact Us</span></a></li>
         <!-- <li style="border-bottom:  2px solid #06f;"><a href="#"></a></li> -->
-        <!-- <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li> -->
+        <!-- <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li> -->    
       </ul>
      </div>
      <!-- Left bar ends -->
@@ -63,7 +69,7 @@ Date:        <dd-mm-yyyy>
 <!-- Mobile bar ends here -->
      <!-- Right bar starts -->
      <div class="right-bars">
-      <div class="righ-col-1"> <!-- User class="activeLink" to make links active -->
+     	<div class="righ-col-1"> <!-- User class="activeLink" to make links active -->
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 1</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 2</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 3</span></div></a>
@@ -74,7 +80,7 @@ Date:        <dd-mm-yyyy>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 8</span></div></a>
          
       </div>
-      <div class="righ-col-2"> <!-- User class="activeLink" to make links active -->
+     	<div class="righ-col-2"> <!-- User class="activeLink" to make links active -->
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 9</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 10</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 11</span></div></a>
@@ -83,13 +89,37 @@ Date:        <dd-mm-yyyy>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 14</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 15</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 16</span></div></a>
-      </div>
+     	</div>
      </div>
      
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
-  <div class="container-fluid">
+	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-<span class="bgtext"> Contact Us </span>
+<div id="section1" class="container-fluid bg-success" style="padding-top:140px;padding-bottom:140px; height: 700px;">
+  <h1>Section 1</h1>
+
+</div>
+
+<div id="section2" class="container-fluid bg-warning" style="padding-top:140px;padding-bottom:140px; height: 700px;">
+  <h1>Section 2</h1>
+  
+</div>
+
+<div id="section3" class="container-fluid bg-secondary" style="padding-top:140px;padding-bottom:140px;height: 700px;">
+  <h1>Section 3</h1>
+
+</div>
+
+<div id="section41" class="container-fluid bg-danger" style="padding-top:140px;padding-bottom:140px;height:700px;">
+  <h1>Section 4 Submenu 1</h1>
+
+</div>
+
+<div id="section42" class="container-fluid bg-info" style="padding-top:140px;padding-bottom:140px;height: 700px;">
+  <h1>Section 4 Submenu 2</h1>
+  
+</div>                                   
+
 
 
 
@@ -99,112 +129,10 @@ Date:        <dd-mm-yyyy>
 
 <!-- WRITE MAIN CONTENT HERE -->
 
-<div class="container-fluid sab-c1">
-  <div class="row">
-
-      
-    <div class="col col-md-6 col-sm-6 sab-header">
-     
-     <h1>Get In Touch With Us</h1>
-     <p><b>Fill the form and get in touch with us</b></p>
-    
-  
-<form action="/action_page.php">
-    <div class="form-group">
-      <label for="Name">Name:</label>
-      <input type="text" class="form-control" id="email" placeholder="Enter Name" name="name">
-    </div>
-    <div class="form-group">
-      <label for="email">Email:</label>
-      <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
-    </div>
-    <div class="form-group">
-      <label for="subject">Subject:</label>
-      <input type="subject" class="form-control" id="sub" placeholder="Enter the Subject" name="subject">
-    </div>
-    <div class="form-group">
-    <label for="Message">Message</label>
-    <textarea type="Message" class="form-control" id="exampleFormControlTextarea1" placeholder="Your Message" rows="4"></textarea>
-  </div><br>
-    <div class="submit">
-          <button type="button" class="btn"><b>SEND</b></button>
 
 
-        
-   </div><br><br>
- 
-  </form>
-
-</div>  
-
-    <div class="col-md-6 col-sm-6 col-xs-6 map">
-      
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3845.763437787898!2d74.97133181485046!3d15.44331408927024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb8d2aea0033e1d%3A0x7d1c47d33069ee80!2sSUCO+Technologies+India+Pvt+Ltd!5e0!3m2!1sen!2sin!4v1514438402419" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-<div class="sab-contactus">
-<h1>Contact Info</h1>
-    <p>  <i class="material-icons" id="shakeel" >location_on</i> 
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,<br>
-    <i class="material-icons" id="shakeel">call</i>
-    <span class="shakeelclass"">+91-8025864585</span><br>
-    <i class="material-icons"  id="shakeel">call</i>
-   <span class="shakeelclass1" > +91-8025864585</span><br>
-   
-    <i class="material-icons" id="shakeel">email</i>
-   <span class="shakeelclass2">dcentmass@gmail.com</span></p>
-  </div> 
-    
 
 
-    </div>
-
-    </div>
-    
- </div>
-
-
-<!--second container-->
-<div class="container-fluid        c2">
-  
-     <h1>Branches</h1>
-
-    <div class="row">
-        <div class="col-md-4 sab">
-            <h2>Americas</h2>
-         <ul> 
-          <li><a href="#"><b>Brazil</b></a></li>
-          <li>  <a href="#"><b>Caneda</b></a> </li>
-            <li> <a href="#"><b>Mexico</b></a></li>
-            <li> <a href="#"><b>United States</b></a></li>     
-        </ul>
-         </div>
-
-
-         <div class="col-md-4 sab1"> 
-            <h2>Asia Pacific</h2>
-            <ul> 
-          <li><a href="#"><b>Australia</b></a></li>
-          <li>  <a href="#"><b>China</b></a> </li>
-            <li> <a href="#"><b>Hongkong</b></a></li>
-            <li> <a href="#"><b>India</b></a></li>     
-            </ul>
-        </div>
-         <div class="col-md-4  sab2 ">
-            <h2>Europe</h2>
-
-             <ul> 
-          <li><a href="#"><b>Belgium</b></a></li>
-          <li>  <a href="#"><b>Denmark</b></a> </li>
-            <li> <a href="#"><b>Finland</b></a></li>
-            <li> <a href="#"><b>France</b></a></li>     
-            </ul> 
-        </div>
-        
-
- </div>
-      
-
-      
-</div>
 
 
 
@@ -220,7 +148,7 @@ Date:        <dd-mm-yyyy>
 
 
 <!-- MAIN CONTENT ENDS -->
-  </div>
+	</div>
 </div>
 <?php include_once("script.php"); ?>
 </body>

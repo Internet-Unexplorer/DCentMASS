@@ -20,7 +20,7 @@ Date:        <dd-mm-yyyy>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
-    <!-- Left bar starts -->
+  	<!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">
         <img src="images/dcentmass_png.png" class="img-fluid">
@@ -63,7 +63,7 @@ Date:        <dd-mm-yyyy>
 <!-- Mobile bar ends here -->
      <!-- Right bar starts -->
      <div class="right-bars">
-      <div class="righ-col-1"> <!-- User class="activeLink" to make links active -->
+     	<div class="righ-col-1"> <!-- User class="activeLink" to make links active -->
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 1</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 2</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 3</span></div></a>
@@ -74,7 +74,7 @@ Date:        <dd-mm-yyyy>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 8</span></div></a>
          
       </div>
-      <div class="righ-col-2"> <!-- User class="activeLink" to make links active -->
+     	<div class="righ-col-2"> <!-- User class="activeLink" to make links active -->
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 9</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 10</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 11</span></div></a>
@@ -83,13 +83,13 @@ Date:        <dd-mm-yyyy>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 14</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 15</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 16</span></div></a>
-      </div>
+     	</div>
      </div>
      
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
-  <div class="container-fluid">
+	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
-<span class="bgtext"> Contact Us </span>
+<span class="bgtext"> Interview services </span>
 
 
 
@@ -99,111 +99,61 @@ Date:        <dd-mm-yyyy>
 
 <!-- WRITE MAIN CONTENT HERE -->
 
-<div class="container-fluid sab-c1">
-  <div class="row">
-
-      
-    <div class="col col-md-6 col-sm-6 sab-header">
-     
-     <h1>Get In Touch With Us</h1>
-     <p><b>Fill the form and get in touch with us</b></p>
-    
-  
-<form action="/action_page.php">
-    <div class="form-group">
-      <label for="Name">Name:</label>
-      <input type="text" class="form-control" id="email" placeholder="Enter Name" name="name">
-    </div>
-    <div class="form-group">
-      <label for="email">Email:</label>
-      <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
-    </div>
-    <div class="form-group">
-      <label for="subject">Subject:</label>
-      <input type="subject" class="form-control" id="sub" placeholder="Enter the Subject" name="subject">
-    </div>
-    <div class="form-group">
-    <label for="Message">Message</label>
-    <textarea type="Message" class="form-control" id="exampleFormControlTextarea1" placeholder="Your Message" rows="4"></textarea>
-  </div><br>
-    <div class="submit">
-          <button type="button" class="btn"><b>SEND</b></button>
 
 
-        
-   </div><br><br>
- 
-  </form>
 
-</div>  
+<h1> Interview Services (RPO)</h1>
+<div class="row stsiscards" >
 
-    <div class="col-md-6 col-sm-6 col-xs-6 map">
-      
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3845.763437787898!2d74.97133181485046!3d15.44331408927024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb8d2aea0033e1d%3A0x7d1c47d33069ee80!2sSUCO+Technologies+India+Pvt+Ltd!5e0!3m2!1sen!2sin!4v1514438402419" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-<div class="sab-contactus">
-<h1>Contact Info</h1>
-    <p>  <i class="material-icons" id="shakeel" >location_on</i> 
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,<br>
-    <i class="material-icons" id="shakeel">call</i>
-    <span class="shakeelclass"">+91-8025864585</span><br>
-    <i class="material-icons"  id="shakeel">call</i>
-   <span class="shakeelclass1" > +91-8025864585</span><br>
-   
-    <i class="material-icons" id="shakeel">email</i>
-   <span class="shakeelclass2">dcentmass@gmail.com</span></p>
-  </div> 
-    
+<div class="col-md-6 stsiscardcol" >   
+
+Hudson RPO services allows both large and mid-sized companies to attain a world-class recruitment function. Our recruitment process outsourcing team works seamlessly within your HR management structure. A comprehensive HR solution can manage the entire recruitment lifecycle for your professional-level staff, or you can selectively use our expertise where your business needs it most.
+</div>
+
+<div class="col-md-6">
+   <img src="images/interview-services.jpg" class="img-fluid">
+</div>
+
+<br><br><br><br><br><br><br><br><br><br><br>
 
 
-    </div>
+<h5>WHY USE RECRUITMENT PROCESS OUTSOURCING SERVICES?</h5>
 
-    </div>
-    
- </div>
+As business begins to pick up and your company is ready to grow again, your volume of requests for new hires can skyrocket. Most HR departments simply don't have enough bandwidth to cover all of their company's recruiting needs in this situation. Hudson RPO is ready to step into your existing structure to augment the recruitment process throughout the entire enterprise or wherever you need us.
 
-
-<!--second container-->
-<div class="container-fluid        c2">
-  
-     <h1>Branches</h1>
-
-    <div class="row">
-        <div class="col-md-4 sab">
-            <h2>Americas</h2>
-         <ul> 
-          <li><a href="#"><b>Brazil</b></a></li>
-          <li>  <a href="#"><b>Caneda</b></a> </li>
-            <li> <a href="#"><b>Mexico</b></a></li>
-            <li> <a href="#"><b>United States</b></a></li>     
-        </ul>
-         </div>
+Using recruitment process outsourcing for a department where you have the heaviest need, such as Sales or R&D, can lower your cost and reduce time-to-fill while providing consistency and uniformity within the workforce. Hudson RPO can also manage all the sourcing, screening, and measurement tactics for your entire organization, while your existing HR team handles the interviewing, hiring and on boarding processes. Choosing which portions of the recruitment process you want to outsource, provides the flexibility to decide what is best for your business.
+</div>
 
 
-         <div class="col-md-4 sab1"> 
-            <h2>Asia Pacific</h2>
-            <ul> 
-          <li><a href="#"><b>Australia</b></a></li>
-          <li>  <a href="#"><b>China</b></a> </li>
-            <li> <a href="#"><b>Hongkong</b></a></li>
-            <li> <a href="#"><b>India</b></a></li>     
-            </ul>
-        </div>
-         <div class="col-md-4  sab2 ">
-            <h2>Europe</h2>
+<div class="container stsiscards">
+<h5>BENEFITS OF RPO SOLUTIONS</h5>
 
-             <ul> 
-          <li><a href="#"><b>Belgium</b></a></li>
-          <li>  <a href="#"><b>Denmark</b></a> </li>
-            <li> <a href="#"><b>Finland</b></a></li>
-            <li> <a href="#"><b>France</b></a></li>     
-            </ul> 
-        </div>
-        
 
- </div>
-      
+<ul style="padding:10px;">
+   <li>Measurable results — SLA and KPI driven metrics and outcomes</li>
+   <li>Lowered cost & shared risk — Flexible and scalable to accommodate your fluctuating needs</li>
+   <li>Reduced time-to-fill — Multi-tiered sourcing strategy accelerates the process</li>
+   <li>Optimized technology — Vendor neutral approach to assessing either existing or new systems</li>
+   <li>System-wide savings — Economies of scale reduce cost</li>
+   <li>Consistency — Streamlines recruiting functions across multiple regions / business units</li>
+   <li>Uniformity — Promotes and protects your branding worldwide</li>
+   <li>Elite talent — Global bandwidth and high-touch approach attract top talent</li>
+   <li>Compliance — Meet industry and governance regulations</li>
+   <li>Centralization — Global account management and vendor management</li>
+   <li>Quality — Use our proprietary assessment tools and interview techniques to find the best person for the job</li>
 
-      
+</ul>
+
+
+
+<h5>ARE RECRUITMENT PROCESS OUTSOURCING SERVICES FOR YOU?</h5>
+<div class="row"    >
+   <div class="col-md-6"> 
+Upon review of your business goals and a formal assessment of your current recruitment management process, we'll recommend a plan of action with all key components tailored to your needs.
+</div>
+<div class="col-md-6">
+   <button class="btn btn-success ">Request a Proposal</button>
+</div> 
 </div>
 
 
@@ -220,7 +170,7 @@ Date:        <dd-mm-yyyy>
 
 
 <!-- MAIN CONTENT ENDS -->
-  </div>
+	</div>
 </div>
 <?php include_once("script.php"); ?>
 </body>
