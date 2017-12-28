@@ -13,37 +13,6 @@
 <script src="js/bootstrap.min.js"></script>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- custom script -->
 <script src="js/main.js"></script>
 
