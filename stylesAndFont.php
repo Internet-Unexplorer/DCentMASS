@@ -18,3 +18,6 @@
 
 <link rel="stylesheet" type="text/css" href="css/asgar.css">
 
+<link rel="stylesheet" type="text/css" href="css/shakeel.css">
+
+<link rel="stylesheet" type="text/css" href="css/shakeel1.css">

@@ -1,4 +1,4 @@
- 
+	 
  .sab-header{
  	margin-top:20px; 
  }
@@ -59,7 +59,7 @@
 
 
 	
-}
+
 .c3 .sab5 iframe{
 	position:absolute;
 	left:0px;
@@ -68,28 +68,30 @@
 	
 	
 }
-.c1 .map iframe{
+.sab-c1 .map iframe{
 	
 	left:0px;
 	width:100%;
 	height:300px;
 }
-.contactus{
-	background-color: silver;
+.sab-contactus{
+	background-color:;
 
 	
 }
 
 
-.contactus i{
+#shakeel{
 color:#CF1218;
-	margin-top:10px;  
+	margin-top:10px;
+
 
  }
  .contactus h1 {
  	margin-left:10px; 
  	border-bottom:2px solid #666;
      width:50%;	
+
 }
 
  .contactus p{
@@ -122,6 +124,124 @@ color:#CF1218;
 	background-color:grey; 
 
 }
+
+
+.sab-heading{
+		margin-top:35px; 
+	}
+
+
+
+
+.sab-heading p{
+
+	text-align:center;
+	margin:0;
+	 font-size: 16px;
+	 font-weight: 300;  
+	  line-height: 1.625;
+	   font-family: 'Source Sans Pro', helvetica, sans-serif, arial;
+
+}
+.sab-techtalks 	{
+	margin-top:30px; 
+}
+
+
+
+
+.sab-jumbotron{
+    
+background-image:url("../images/pexels-photo-288477	.jpeg");
+background-size:cover; 
+
+margin-top:25px;
+height:100%; 
+ 
+ 
+}
+.sab-jumbotron h1{
+text-align: center;
+margin-top:5%; 
+color:#fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Techtalks-->
+
+ 
+.sab-heading{
+		margin-top:35px; 
+	}
+
+
+
+
+.sab-heading p{
+
+	text-align:center;
+	margin:0;
+	 font-size: 16px;
+	 font-weight: 300;  
+	  line-height: 1.625;
+	   font-family: 'Source Sans Pro', helvetica, sans-serif, arial;
+
+}
+.sab-techtalks 	{
+	margin-top:30px; 
+}
+
+
+
+
+.sab-jumbotron{
+    
+background-image:url("../images/pexels-photo-288477	.jpeg");
+background-size:cover; 
+
+margin-top:25px;
+height:100%; 
+ 
+ 
+}
+.sab-jumbotron h1{
+text-align: center;
+margin-top:5%; 
+color:#fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

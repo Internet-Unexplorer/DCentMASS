@@ -1,7 +1,7 @@
 <?php
 /*
-Author name: <Your name>;
-E-mail ID:   <Your E-mail ID>
+Author name: <Shakeel ahmed;
+E-mail ID:   <shakeel999sourceus@gmail.com>
 Date:        <dd-mm-yyyy>
 */
 /////////////////////////////////////////////////////////
@@ -16,7 +16,7 @@ Date:        <dd-mm-yyyy>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Title</title>
+    <title>Tech Talks</title>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
@@ -90,15 +90,21 @@ Date:        <dd-mm-yyyy>
 	<div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
 
-
-
-
-
-
-	
-
 <!-- WRITE MAIN CONTENT HERE -->
-<div class="container sab-container">
+
+
+
+<div class="container">
+  <div class="row" >
+  <div class="col-md-12">
+  <div class="jumbotron sab-jumbotron">
+     <h1><b>Techtalks</b></h1>
+   </div>
+  </div>
+  
+</div>
+</div>
+<div class="container">
 	<div class="row">
 	<div class="col-md-12 sab-heading">
 	
@@ -110,19 +116,12 @@ Date:        <dd-mm-yyyy>
 	     <p>and initiates knowledge-sharing events. First organized in 2015, Tech Talks began as a series of small technology meet-ups and has grown to a vibrant community of IT gurus who are mad about the latest developments in programming languages, frameworks, and technologies that shape the future of software industry.</p>	
     </div>
 
-	
-
 </div>
 </div>
 </div>
 
 
-<div class="container">
-  <div class="jumbotron">
-     <h1>hello</h1>
-  </div>
-  
-</div>
+
 
 
 
@@ -135,7 +134,6 @@ Date:        <dd-mm-yyyy>
         	 <hr class="sab-hr2">
       </div>
   </div>
-</div>
 
 
 
@@ -143,28 +141,14 @@ Date:        <dd-mm-yyyy>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <div class="container sab-container3">
+  <div class="container">
   <div class="row">
- 
-  	<div class="col-md-5 sab-img" class="img-fluid" >
-  <div class="img-class">
-   <img src="images/pexels-photo-567633 (2).jpeg"><br><br>
+ <div class="col-md-1">
+</div>
+    
+  	<div class="col-md-5 sab-img" >
+  <div class="sab-recentimage">
+   <img src="images/pexels-photo-567633 (2).jpeg" class="img-fluid"><br><br>
   </div>
  
    <p class="sab-para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
@@ -179,21 +163,21 @@ Date:        <dd-mm-yyyy>
 
   
 
-  	<div class="img-class">	
+  	<div class="sab-recentimage">	
   <img src="images/cellular-education-classroom-159844 (1).jpeg" class="img-fluid">
       </div>
-    <!--   <div class="content" style="position:absolute;top:22%;left:43%;color:#fff;white-space:nowrap;font-size:60px;  ">
-        title<a>ajfba</a>
-       </div> -->
+  
     
       <p class="sab-para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 
   </div>
-  <div class="col-md-1">
- </div>
+  
 </div>
 </div>
-<div class="container sab-container4">
+</div>
+
+
+<div class="container">
  <div class="row">
  	<div class="col-md-12 sab-heading2">
         <h2><span class=sab-span1>DcentMASS</span> Is a Certified Learning Center</h2> 
@@ -202,69 +186,84 @@ Date:        <dd-mm-yyyy>
   </div>
 </div><br><br>
 
+
+
+<!-- <div class="container"> 
+<div class="row">
+  <div class="col-md-4 sab-img3">
+  <div class="sab-imageclass2">
+  <img src="images/books.jpeg" class="img-fluid">
+</div>
+  </div>
+<div class="col-md-4 sab-img2">
+
+  <div class="sab-imageclass1">
+    <img src="images/javacoding.jpeg" class="img-fluid">
+</div>
+
+    <div class="sab-imageclass1">
+    <img src="images/photoshop.jpeg" class="img-fluid">
+
+    </div>
+
+
+
+</div>
+
+
+</div>
+</div>
+ -->
 <div class="container">	
 <div class="row">
 <div class="col-md-4 sab-img3">
-  <div class="imageclass2">
+  <div class="sab-imageclass2">
 	<img src="images/books.jpeg" class="img-fluid">
 </div>
 </div>
 <div class="col-md-4 sab-img2">
 <div class="row">
-  <div class="imageclass1">
+
+  <div class="sab-imageclass1">
 		<img src="images/javacoding.jpeg" class="img-fluid">
 </div>
 		</div>
 
 		<div class="row">
-      <div class="imageclass1">
+      <div class="sab-imageclass1">
 		<img src="images/photoshop.jpeg" class="img-fluid">
-    <h1>hello</h1>
+
 		</div>
 		</div>
 	
-	
+
 </div>
 
 <div class="col-md-4 sab-img2">
 	
 	<div class="row">
-    <div class="imageclass1">
+
+    <div class="sab-imageclass1">
 
 		<img src="images/html.jpeg" class="img-fluid">
   </div>
-		</div>
+</div>
+
 		<div class="row">
 
-       <div class="imageclass1">
-		<img src="images/darkness1.jpeg" class="img-fluid" >
+       <div class="sab-imageclass1">
+		<img src="images/darkness1.jpeg" class="img-fluid">
+    <span style="z-index: 2000; position: absolute; bottom: 50%; top: 50%; left: 50%; right: 50%;">Content</span>
 		</div>
 
 
 </div>
 </div>
 </div>
-
-<div class="container">
-<div class="row">
-<div class="col-md-6">
-  <div class="computer">
-
-  <img src="images/pexels-photo.jpg" class="img-fluid">
-  <div class="row">
-
- <p style="position:absolute;bottom:34%;font-size:50px;font-weight:bold;left:35%;color:yellow">center</p>
-  </div>
 </div>
-</div>
-
-</div>
-</div>
-
 
 
 <!-- NOTE: Please keep your code clean + readable and add comments -->
-
 
 
 

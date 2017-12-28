@@ -1,7 +1,7 @@
 <?php
 /*
-Author name: <Shakeel Ahmed>;
-E-mail ID:   <shakeel999sourceus@gmail.com>
+Author name: <Your name>;
+E-mail ID:   <Your E-mail ID>
 Date:        <dd-mm-yyyy>
 */
 /////////////////////////////////////////////////////////
@@ -16,27 +16,28 @@ Date:        <dd-mm-yyyy>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Contact Us</title>
+    <title>Title</title>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
-  	<!-- Left bar starts -->
+    <!-- Left bar starts -->
      <div class="left-bar">
       <div class="image1">
         <img src="images/dcentmass_png.png" class="img-fluid">
       </div>
       <ul>
         <!-- User class="activeLink" to make links active -->
-        <li><a href="#">Home</a></li>
-        <li><a href="#">DCent MASS</a></li>
-        <li><a href="#">Our Services</a></li>
-        <li><a href="#">Student Hub</a></li>
-        <li><a href="#">Courses</a></li>
-        <li><a href="#">Events</a></li>
-        <li><a href="#">Media</a></li>
-        <li><a href="#">Forum</a></li>
-        <li><a href="#">Contact Us</a></li>
-        <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li>
+        <li class="activeLink"><a href="#"><i class="material-icons">home</i><span class="menuText">Home</span></a></li>
+        <li><a href="#"><i class="material-icons">language</i><span class="menuText">DCent MASS</span></a></li>
+        <li><a href="#"><i class="material-icons">settings_applications</i><span class="menuText">Our Services</span></a></li>
+        <li><a href="#"><i class="material-icons">group_work</i><span class="menuText">Student Hub</span></a></li>
+        <li><a href="#"><i class="material-icons">library_books</i><span class="menuText">Courses</span></a></li>
+        <li><a href="#"><i class="material-icons">event</i><span class="menuText">Events</span></a></li>
+        <li><a href="#"><i class="material-icons">perm_media</i><span class="menuText">Media</span></a></li>
+        <!-- <li><a href="#">Forum</a></li> -->
+        <li><a href="#"><i class="material-icons">contacts</i><span class="menuText">Contact Us</span></a></li>
+        <!-- <li style="border-bottom:  2px solid #06f;"><a href="#"></a></li> -->
+        <!-- <li style="border-bottom: 2px solid #06f;"><a href="#">FAQs</a></li> -->
       </ul>
      </div>
      <!-- Left bar ends -->
@@ -52,17 +53,17 @@ Date:        <dd-mm-yyyy>
         <li><a href="#">Courses</a></li>
         <li><a href="#">Events</a></li>
         <li><a href="#">Media</a></li>
-        <li><a href="#">Forum</a></li>
-        <li><a href="#">Contact Us</a></li>
-        <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li>
-      </ul>
+        <!-- <li><a href="#">Forum</a></li> -->
+        <li style="border-bottom:  2px solid #06f;"><a href="#">Contact Us</a></li>
+        <!-- <li style="border-bottom:  2px solid #06f;"><a href="#">FAQs</a></li> -->
+  </ul>
 </div>
 
 <span id="openNavID" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
 <!-- Mobile bar ends here -->
      <!-- Right bar starts -->
      <div class="right-bars">
-     	<div class="righ-col-1"> <!-- User class="activeLink" to make links active -->
+      <div class="righ-col-1"> <!-- User class="activeLink" to make links active -->
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 1</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 2</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 3</span></div></a>
@@ -73,7 +74,7 @@ Date:        <dd-mm-yyyy>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 8</span></div></a>
          
       </div>
-     	<div class="righ-col-2"> <!-- User class="activeLink" to make links active -->
+      <div class="righ-col-2"> <!-- User class="activeLink" to make links active -->
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 9</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 10</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 11</span></div></a>
@@ -82,17 +83,23 @@ Date:        <dd-mm-yyyy>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 14</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 15</span></div></a>
         <a href="#"><div class="rightMenuBlocks"><span class="linkText">Text 16</span></div></a>
-     	</div>
+      </div>
      </div>
      
 <div class="mainContainer" id="mainContainer">  <!-- DO NOT REMOVE THIS -->
-	<div class="container-fluid">
+  <div class="container-fluid">
 <!-- MAIN CONTENT STARTS -->
+<span class="bgtext"> Contact Us </span>
+
+
+
+
+
 
 
 <!-- WRITE MAIN CONTENT HERE -->
 
-<div class="container-fluid c1">
+<div class="container-fluid sab-c1">
   <div class="row">
 
       
@@ -132,17 +139,17 @@ Date:        <dd-mm-yyyy>
 
     <div class="col-md-6 col-sm-6 col-xs-6 map">
       
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15382.948574187954!2d74.97346909999999!3d15.44473205!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb8d2ae0bc927a9%3A0xb0743364a41b4f73!2sAkkamahadevi+Ashrama!5e0!3m2!1sen!2sin!4v1513422036953"  frameborder="0" style="border:0;" allowfullscreen ></iframe>
-<div class="contactus">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3845.763437787898!2d74.97133181485046!3d15.44331408927024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb8d2aea0033e1d%3A0x7d1c47d33069ee80!2sSUCO+Technologies+India+Pvt+Ltd!5e0!3m2!1sen!2sin!4v1514438402419" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<div class="sab-contactus">
 <h1>Contact Info</h1>
-    <p>  <i class="material-icons ">location_on</i> 
+    <p>  <i class="material-icons" id="shakeel" >location_on</i> 
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,<br>
-    <i class="material-icons">call</i>
-    <span class="shakeelclass">+91-8025864585</span><br>
-    <i class="material-icons">call</i>
-   <span class="shakeelclass1"> +91-8025864585</span><br>
+    <i class="material-icons" id="shakeel">call</i>
+    <span class="shakeelclass"">+91-8025864585</span><br>
+    <i class="material-icons"  id="shakeel">call</i>
+   <span class="shakeelclass1" > +91-8025864585</span><br>
    
-    <i class="material-icons">email</i>
+    <i class="material-icons" id="shakeel">email</i>
    <span class="shakeelclass2">dcentmass@gmail.com</span></p>
   </div> 
     
@@ -156,7 +163,7 @@ Date:        <dd-mm-yyyy>
 
 
 <!--second container-->
-<div class="container-fluid c2">
+<div class="container-fluid        c2">
   
      <h1>Branches</h1>
 
@@ -201,11 +208,6 @@ Date:        <dd-mm-yyyy>
 
 
 
-
-
-
-
-
 <!-- NOTE: Please keep your code clean + readable and add comments -->
 
 
@@ -218,7 +220,7 @@ Date:        <dd-mm-yyyy>
 
 
 <!-- MAIN CONTENT ENDS -->
-	</div>
+  </div>
 </div>
 <?php include_once("script.php"); ?>
 </body>
