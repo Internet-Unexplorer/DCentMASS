@@ -153,8 +153,7 @@ Date:        <dd-mm-yyyy>
   <div class="container-fluid">
     <div class="col-md-12">
      <div class="row">
-      <center>
-      <h3 id="ad-margin">How do I prepare?</h3></center>
+      <h4>How do I prepare?</h4>
     </div>
   </div>
   <div class="container-fluid">
@@ -162,7 +161,7 @@ Date:        <dd-mm-yyyy>
       <div class="row">
     
       <ul>
-      <li id="ad-margin2">Watch our video on how to prepare for the Fair.</li>
+      <li>Watch our video on how to prepare for the Fair.</li>
        
       <iframe class="embed-responsive" width="400" height="400" src="https://www.youtube.com/embed/iI6jiwoqxg4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
        <li id="ad-pointstxt">Demonstrate your interest by <strong>researching the organisations</strong> you want to speak to – <br>their MyCareerHub profiles, websites, social media, and the fair guide (coming soon)<br> area good place to start</li>
@@ -180,7 +179,7 @@ Date:        <dd-mm-yyyy>
       
       <h3 id="ad-margin">Who am I going to meet?</h3>
       
-        <li id="ad-pointstxt">A full list of employers can be found right hand side of the MyCareerHub event and  can also be found in the Fair Guide </li>
+        <li id="ad-pointstxt">A full list of employers can be found right hand side of the MyCareerHub event and can also be found in the Fair Guide </li>
         
      <a id="ad-pointstxt" href="#">Careers Fair Day 1</a><br>
      <a id="ad-pointstxt" href="#">Careers Fair Day 2</a>
@@ -194,6 +193,7 @@ Date:        <dd-mm-yyyy>
         <li id="ad-pointstxt"><a href="#">Make an appointment to get advice on your next steps</a></li>
       
   
+
     </div>
     
     

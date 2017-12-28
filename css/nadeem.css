@@ -100,5 +100,14 @@
     font-family: "Roboto";
 }
 
-/* 
-Section Scroll */
+/* FAQ */
+
+.nad-faq{
+    font-size: 20px;
+}
+
+.wfimg{
+    width: 100%;
+    position: relative;
+    opacity: 0.7;
+ }
