@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css?family=Open+Sans|Poppins|Roboto|Titillium+Web" rel="stylesheet">
 
 
-<link href="https://fonts.googleapis.com/css?family=Roboto">
+
 
 <!-- Bootstrap CSS 4! -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
@@ -16,6 +16,7 @@
 <!-- Custom CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
 <link rel="stylesheet" type="text/css" href="css/style.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto">
 <!-- SASS output -->
 <link rel="stylesheet" type="text/css" href="css/style1.css">
 
