@@ -42,10 +42,13 @@
 
   #ad-main-Para
 {
-              font-size: 18px;
+            
+              font-family: Open Sans;
+              text-align:left;
+               font-size: 18px;
               font-family: Open Sans;
               color: #333;
-              text-align:justify;
+              text-align:left;
             }
                       
             
@@ -266,13 +269,17 @@ padding: 25px;
 
 
 /* JOB FAIR ANOTHER ONE PAGE*/
+#ad-hrmainline
+{
+  border:6px solid purple;
+}
   
 #ad-hrstyle1{
-  border-top: 6px solid red;
+  border-top: 6px solid #0f5b95;
 }
 #ad-hrverticle
 {
-  border-left:3px red solid; 
+  border-left:4px purple solid; 
  padding-left: 3px;
  padding-top:0px;
 }
@@ -293,102 +300,18 @@ padding: 25px;
     border-style: solid;
     border-width: 1px;
 }
-/*#event-date-title {
-    display: table;
-    margin: 15px 20px 10px;
-}
-#event-date {
-    display: table-cell;
-    padding-right: .75em;
-    line-height: 1px;
-    white-space: nowrap;
-    vertical-align: middle;
-    border-right: solid 2px #830065;
-    box-sizing: border-box;
-}*/
-/*
 
-.event-day {
-    font-size: 1.9em;
-    font-weight: 700;
-    color: #830065;
-}
-.event-year {
-    display: block;
-    font-weight: 600;
-    line-height: .8;
-    text-align: center;
-}
-.event-time {
-    display: block;
-    padding-top: .35em;
-    margin-top: .475em;
-    font-size: .9em;
-    line-height: .9em;
-    border-top: solid 1px #ddd;
-}
-.col-second-inner {
-    padding-left: 15px;
-    overflow: hidden;
-    border-left: solid 2px #830065;
-
-
-    box-sizing: border-box;
-  }
-  .panel
-  {
-  box-shadow: 0 4px 6px -5px rgba(0,0,0,.3), 0 0 1px rgba(0,0,0,.1);
-}
-.event-date-separator {
-    font-size: 1.9em;
-    font-weight: 700;
-    line-height: 1.5em;
-    color: #830065;
-    vertical-align: top;
-}
-.event-month {
-    font-size: 1.05em;
-    text-transform: uppercase;
-}
-
-.event-day, .event-month, .event-year {
-    display: block;
-    font-weight: 600;
-    line-height: .8;
-    text-align: center;
-}
-*/
-
-#ad-boxshadow
-{
-  padding: 10px;
-    box-shadow: 5px 10px 18px #888888;
-}
-/*.event-date-seprator {
-    font-size: 1.9em;
-    font-weight: 700;
-    line-height: 0.5em;
-    margin-left: 8px;
-    
-    color: #830065;
-    vertical-align: top;
-}*/
-
-#ad-hrverticle2
-{
-  border-right:1px red solid; 
- padding-left:5px;
- padding-top:0px;
-}
 #ad-comma
 {
-  font-size:30px;
+  font-size:25px;
   opacity:0.2;
 }
 #ad-boxshadow
 {
     padding: 10px;
-    box-shadow: 5px 5px  #888888;
+    box-shadow: 5px 6px  #888888;
+    overflow: hidden;
+    opacity: .5px;
   }
   #ad-eventmont
   {
@@ -398,20 +321,23 @@ padding: 25px;
   }
   #ad-fontweight
   {
-    font-weight: bold;
+    font-size: 18px;
+              font-family: Roboto;
+              color: #000;
+             font-weight: bold;
   }
   #ad-hrstyle
   {
     width:50px; 
     float: left;
   }
-  #ad-eventtime
+  #ad-eventtime1
   {
-    margin:0.8em;
-    line-height: -5px;
+    margin:0em;
+    line-height: -15px;
      margin-top: 0;
       text-indent: 2em;
-      padding: 0 5px 0 5px;
+      padding: 0 5px 0 -5px;
   }
   #ad-eventday
   {
@@ -425,7 +351,7 @@ padding: 25px;
   }
   #ad-hrleftside
   {
-    width: 50px;
+    width: 35px;
      float: left;
   }
   #ad-eventtime2
@@ -436,8 +362,91 @@ padding: 25px;
     text-indent:  2em;
                          padding: 0 5px 0 5px;
   }
-  #ad-textcenet
+  #ad-textceneter
   {
-    padding-top:50px;
+    padding-top:20px;
     font-size:20px;
+    margin-left: 2px;
+    
+              font-family:Poppins;
+              color: #000;
+             font-weight:normal;
+
   }
+  #ad-homeicon
+  {
+    padding-top: 25px;
+    margin-left: 9px;
+    width: 100px;
+    height: 50px;
+  }
+#ad-placetxt
+{
+  margin-top: 26px;
+
+}
+.ad-mapclor
+{
+  background-color:;
+}
+#ad-place
+{
+  margin-left: 10px;
+}
+#ad-map
+{
+  margin-top:20px;
+}
+#ad-margin
+{
+  margin-left:-20px;
+   font-size: 30px;
+              font-family: Poppins;
+              color: #000;
+            
+}
+#ad-margin2
+{
+  margin-left:10px;
+  font-size: 18px;
+              font-family: Open Sans;
+              color: #333;
+              text-align:left;
+}
+#ad-hrverticle3
+{
+  border-left:5px purple solid; 
+ padding-left: 3px;
+ padding-bottom: 10px;
+ height: 500px;
+}
+
+
+#ad-cardp{
+  margin-left: 15px;
+}
+#ad-carddate
+{
+  padding-left: 10px;
+}
+#ad-hrrightborder
+{
+  border-left: 3px  purple solid;
+  min-height: 25px;
+  padding-top: 20px;
+}
+#ad-maptextleft
+{
+ 
+ font-size: 18px;
+              font-family: Open Sans;
+              color: #333;
+              text-align:left;
+}
+#ad-pointstxt
+{
+              font-size: 18px;
+              font-family: Open Sans;
+              color: #333;
+              text-align:left;
+}

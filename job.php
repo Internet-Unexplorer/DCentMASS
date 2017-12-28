@@ -91,130 +91,179 @@ Date:        <dd-mm-yyyy>
 <!-- MAIN CONTENT STARTS -->
 
 
-
-
-
+<span class="bgtext">jobFair</span>
 
 
 
 <!-- WRITE MAIN CONTENT HERE -->
-<br>
-<br>
-<br>
-<br>
-<h3>Careers Fair 2017</h3>
+
 <div class="container-fluid">
-  <hr>
+<div class="row">
+    <div class="col-md-12">
+<h2 id="ad-h-font">Careers Fair 2017</h2>
+<hr id="ad-hrmainline">
+</div>
+</div>
+</div>
+
+
+
+
+
+
+<div class="container-fluid">
+  
+
+  
     <div class="row">
 
 
+  
+
   <div class="col-md-8"> 
-      this is middle content
-      <h4>Why should I attend?s</h4>
+     
+      <h4 id="ad-Sub-h">Why should I attend?</h4>
       <div class="container-fluid">
-        <ul>
-          <li>This is your chance to meet employers looking to recruit students and graduates like you</li>
+        <ul id="ad-pointstxt">
+          <li>This is your chance to <strong>meet employers</strong> looking to recruit students and graduates like you</li>
           <li>Speak to their representatives and see what it is like to work with them, get tips on your applications, and ask questions not covered by their websites</li>
           <li>Nothing for you?</li>
         </ul>
-        <li>
+        <li id="ad-pointstxt">
         <strong>Don’t rule yourself out </strong>- lots of employers at the fair welcome applications from any discipline. If nothing appeals to you, come and speak to us at the Careers Service about how you can find out about other opportunities</li>
-       <li>
+       <li id="ad-pointstxt">
         <strong>Don’t rule yourself out </strong>- lots of employers at the fair welcome applications from any discipline. If nothing appeals to you, come and speak to us at the Careers Service about how you can find out about other opportunities</li>
    <br>
-        <div id="ad-hrverticle"  class="panel">
-          <span id="ad-comma">❝</span>
+ </div> 
+     
+        <div id="ad-hrverticle"  class="card">
+          <div class="container-fluid" id="ad-boxshadow">
+       <p id="ad-pointstxt">   <span id="ad-comma">❝</span>
           It was an excellent event, with many different employers. I was impressed 
-          by the variety and how many different opportunities I was presented with <span id="ad-comma">❞</span>
+          by the variety and how many different opportunities I was presented with <span id="ad-comma">❞</span></p>
         <br>
-        <br>
-        <cite>&nbsp&nbsp&nbsp-Student attendee 2016</cite>
-
-
-     <div id="ad-boxshadow">
-<p>The inset keyword changes the shadow to one inside the frame.</p>
+      
+        <cite id="ad-pointstxt">&nbsp&nbsp-Student attendee 2016</cite>
 </div>
-
-
-        </div>
-      </div>
     </div>
+
+
+<br>
+  
+  <div class="container-fluid">
+    <div class="col-md-12">
+     <div class="row">
+      <center>
+      <h3 id="ad-margin">How do I prepare?</h3></center>
+    </div>
+  </div>
+  <div class="container-fluid">
+    <div class="col-md-12">
+      <div class="row">
+    
+      <ul>
+      <li id="ad-margin2">Watch our video on how to prepare for the Fair.</li>
+       
+      <iframe class="embed-responsive" width="400" height="400" src="https://www.youtube.com/embed/iI6jiwoqxg4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+       <li id="ad-pointstxt">Demonstrate your interest by <strong>researching the organisations</strong> you want to speak to – <br>their MyCareerHub profiles, websites, social media, and the fair guide (coming soon)<br> area good place to start</li>
+    <li id="ad-pointstxt"><strong>Prepare some questions</strong> and main points you want to discuss beforehand</li>
     
   
+      </ul>
+    </div>
+  </div>
+</div>
+</div>
 
 
-    <div  class="col-md-4" id="ad-hrverticle">
-      <div class="container-fluid" >
+    <div class="container-fluid">
       
-
-       <div class="row" id="ad-boxshadow"> 
-        <div class="col-md-2">
-        <div>
-                   <span id="ad-event-mont">oct</span><br>
-                    &nbsp<span class="event-day" id="ad-eventday" class="event-day">10  <br></span>
-                    <span id="ad-year" class="event-year">2017</span><br><hr><br>
-
-                    <span id="ad-eventtime" class="event-time">11.00</span>
-            
-
-</div>
-   </div> 
-         
-            <div class="col-md-2" id="ad-hrverticle2">
-            
-                <span id="ad-event-mont"" class="event-mont">oct</span><br>
-                    &nbsp<span class="event-day" id="ad-eventday" class="event-day">10  <br></span>
-                    <span id="ad-year" class="event-year">2017</span><br><hr id="ad-hrleftside"><br>
-
-                    <span id="ad-eventtime2" class="event-time">11.00</span>
-                
-              </div>
-              <div class="col-md-8 ">
-               <p align="center" id="ad-textcenet" "> Careers Fair 2017</p>
-
-              </div>
-              <div class="col-md-12">
-                <br>
-              <p align="justify">A two-day event with over 100 employers looking to recruit from the University of Edinburgh. Different exhibitors each day!</p>
-            </div>
+      <h3 id="ad-margin">Who am I going to meet?</h3>
+      
+        <li id="ad-pointstxt">A full list of employers can be found right hand side of the MyCareerHub event and  can also be found in the Fair Guide </li>
         
-              </div>   
-
-
-
-                 <br>
-                 <div class="panel row" id="ad-boxshadow">
-                    <div class="col-md-2" id="ad-hrverticle2">
-                     <i class="fa fa-home"></i>
-                   </div>
-                   <div class="col-md-10">
-                     <p>DCentMASS<br>
-
-Central Campus<br>
-EH8 9AG</p>
-</div>
-                   </div>
-                 </div>
-                 
-
-
-
-            </div>
-       
-             
-
- 
-       </div>
+     <a id="ad-pointstxt" href="#">Careers Fair Day 1</a><br>
+     <a id="ad-pointstxt" href="#">Careers Fair Day 2</a>
+    </div>
+    <br>
+    <div id="ad-pointstxt" class="container-fluid">
+      <h3 id="ad-margin">What do I do next?</h3>
+      
+        <li id="ad-pointstxt"><a href="#">Use our resources to get ahead with your applications and career planning. </a></li>
+        <li id="ad-pointstxt"><a href="#">Check out MyCareerHub to see what other events are coming up</a></li>
+        <li id="ad-pointstxt"><a href="#">Make an appointment to get advice on your next steps</a></li>
+      
   
-
-
-
-
-
-
-
-
+    </div>
+    
+    
+  
 </div>
+
+<!-- First card -->
+
+<div class="col-md-4" id="ad-hrverticle3">
+  <div  class="container-fluid card" id="ad-boxshadow">
+    <div class="row">
+      <div class="col-md-4">
+     <div class="row" id="ad-carddate">
+      <p id="ad-fontweight"> &nbsp oct  <br> &nbsp 10  <br> 2017 
+      </p>
+      <span id="ad-fontweight">
+ <p  id="ad-cardp">&nbsp oct  <br> &nbsp 10  <br> 2017 
+</p></span>
+</div>
+      </div>
+      <div class="col-md-8">
+    <div class="row">
+      <div class="container-fluid" id="ad-hrrightborder">
+     <h5 id="ad-textceneter">Careers Fair 2017</h5>
+   </div>
+   </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+    <div class="row">
+      <p id="ad-main-Para">A two-day event with over 100 employers looking to recruit from the University of Edinburgh. Different exhibitors each day!</p>
+     </div>
+    </div>
+
+  
+</div>
+<br>
+   <div class="container-fluid card " id="ad-boxshadow">
+     <div class="row">
+       <div class="col-md-2">
+        <i id="ad-homeicon" class="material-icons">home</i>
+         
+       </div>
+       <div class="col-md-10">
+         <div class="row" id="ad-main-Para">
+                    <p id="ad-hrverticle">DCentMASS<br>
+
+                      Central Campus<br>
+                       EH8 9AG</p>
+         </div>
+       </div>
+     </div>
+   </div>
+   <br>
+   <div class="container-fluid card ad-mapclor" id="ad-boxshadow">
+     <div class="row">
+       <div class="col-md-2">
+          <i  id="ad-place" class="material-icons">place</i>
+       </div>
+       <div class="col-md-10">
+         <div class="row">
+           <a id="ad-maptextleft" href="#">Google Map-DcentMASS</a>
+         </div>
+       </div>
+     </div>
+   </div>
+</div>
+
+
+
  
 
 
@@ -223,6 +272,17 @@ EH8 9AG</p>
 
 
 
+
+
+
+ 
+
+
+
+
+
+
+  
 
 
 
@@ -248,6 +308,8 @@ EH8 9AG</p>
 <!-- MAIN CONTENT ENDS -->
 	</div>
 </div>
+
+
 <?php include_once("script.php"); ?>
 </body>
 </html>
