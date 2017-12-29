@@ -16,7 +16,7 @@ Date:        <dd-mm-yyyy>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>FAQ one</title>
+    <title>FAQ</title>
     <?php include_once("stylesAndFont.php"); ?>
 </head>
 <body>
@@ -106,7 +106,12 @@ Date:        <dd-mm-yyyy>
   <!-- Product FAQ -->
   <div class="container-fluid">
    <div class="row">
-  <center> <h3>Product FAQ :</h3></center>
+    <div class="col-md-4">
+  <h5>Product FAQ :</h5>
+</div>
+
+  <div class="col-md-8">
+  
   <div class="panel-group">
     <div class="panel panel-default">
       <div class="panel-heading">
@@ -117,7 +122,7 @@ Date:        <dd-mm-yyyy>
       <div id="collapse1" class="panel-collapse collapse">
         <div class="panel-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis dicta iste ipsam. Corrupti odit itaque neque eaque asperiores tempore, perferendis voluptate laboriosam commodi esse ratione! A libero suscipit sint dignissimos.
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure iusto maiores, animi aliquam quaerat alias beatae autem harum necessitatibus pariatur doloremque exercitationem possimus aspernatur, sint aperiam. Rem porro doloribus voluptatum.
-        </div>
+        </div>  
       </div>
     </div>
 
@@ -171,15 +176,24 @@ Date:        <dd-mm-yyyy>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit molestias quasi harum pariatur quod tenetur delectus sequi voluptatum perferendis quis. Dolorem corporis veniam est consequuntur fugiat, expedita fuga quam odit!
         </div>
     </div>
+  </div>
+
+</div>
+
+</div>
 </div>
 <hr>
-</div>
 
 
 <!-- Course FAQ -->
 <div class="container-fluid">
    <div class="row">
-  <center> <h3>Course FAQ :</h3></center>
+     <div class="col-md-4">
+  <h5>Course FAQ :</h5>
+</div>
+
+<div class="col-md-8">
+
   <div class="panel-group">
     <div class="panel panel-default">
       <div class="panel-heading">
@@ -244,9 +258,13 @@ Date:        <dd-mm-yyyy>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit molestias quasi harum pariatur quod tenetur delectus sequi voluptatum perferendis quis. Dolorem corporis veniam est consequuntur fugiat, expedita fuga quam odit!
         </div>
     </div>
+
 </div>
-<hr>
 </div>
+</div>
+</div><hr>
+
+<br>
 
 
 
