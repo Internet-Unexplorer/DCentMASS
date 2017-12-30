@@ -269,8 +269,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <div class="card" style="width: 20rem;">
   <img class="card-img-top" src="images/advantage1.jpg" alt="Card image cap">
   <div class="card-body">
-    <h4 class="card-title">Card title</h4>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <span class="para-heading">Card title</span>
+    <span class="para">Some quick example text to build on the card title and make up the bulk of the card's content.</span>
   </div>
 </div>
 </div>
@@ -279,8 +279,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <div class="card" style="width: 20rem;">
   <img class="card-img-top" src="images/advantage1.jpg" alt="Card image cap">
   <div class="card-body">
-    <h4 class="card-title">Card title</h4>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <span class="para-heading">Card title</span>
+    <span class="para">Some quick example text to build on the card title and make up the bulk of the card's content.</span>
   </div>
 </div>
 </div>
@@ -289,8 +289,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <div class="card" style="width: 20rem;">
   <img class="card-img-top" src="images/advantage1.jpg" alt="Card image cap">
   <div class="card-body">
-    <h4 class="card-title">Card title</h4>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <span class="para-heading">Card title</span>
+    <span class="para">Some quick example text to build on the card title and make up the bulk of the card's content.</span>
   </div>
 </div>
 </div>
@@ -304,8 +304,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <div class="card" style="width: 20rem;">
   <img class="card-img-top" src="images/advantage1.jpg" alt="Card image cap">
   <div class="card-body">
-    <h4 class="card-title">Card title</h4>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <span class="para-heading">Card title</span>
+    <span class="para">Some quick example text to build on the card title and make up the bulk of the card's content.
+    </span>
   </div>
 </div>
 </div>
@@ -314,8 +315,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <div class="card" style="width: 20rem;">
   <img class="card-img-top" src="images/advantage1.jpg" alt="Card image cap">
   <div class="card-body">
-    <h4 class="card-title">Card title</h4>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <span class="para-heading">Card title</span>
+    <span class="para">Some quick example text to build on the card title and make up the bulk of the card's content.
+    </span>
   </div>
 </div>
 </div>
@@ -324,8 +326,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <div class="card" style="width: 20rem;">
   <img class="card-img-top" src="images/advantage1.jpg" alt="Card image cap">
   <div class="card-body">
-    <h4 class="card-title">Card title</h4>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <span class="para-heading">Card title</span>
+    <span class="para">Some quick example text to build on the card title and make up the bulk of the card's content.
+    </span>
   </div>
 </div>
 </div>
