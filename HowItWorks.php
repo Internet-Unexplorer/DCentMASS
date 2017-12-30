@@ -257,18 +257,44 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
      Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis voluptates qui dolorum quis nemo ratione eius praesentium, magni odio, est provident, veritatis enim nulla. Alias amet eaque quas repellat obcaecati!
      Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima optio illo, nisi blanditiis placeat iste? Maxime hic nemo doloribus accusantium, aspernatur magni soluta, fugit, quis mollitia expedita culpa nisi ab. 
 </span>
+<hr>
 </div>
 
 <div class="container-fluid">
-<span class="para-heading">The SUCO Advantage</span>
-<div class="col-md-6">
+<center><span class="para-heading">The SUCO Advantage</span></center>
+<div class="row">
+
+<div class="col-md-4">
 <div class="card" style="width: 20rem;">
   <img class="card-img-top" src="images/advantage1.jpg" alt="Card image cap">
   <div class="card-body">
     <h4 class="card-title">Card title</h4>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  
   </div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card" style="width: 20rem;">
+  <img class="card-img-top" src="images/advantage1.jpg" alt="Card image cap">
+  <div class="card-body">
+    <h4 class="card-title">Card title</h4>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card" style="width: 20rem;">
+  <img class="card-img-top" src="images/advantage1.jpg" alt="Card image cap">
+  <div class="card-body">
+    <h4 class="card-title">Card title</h4>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+</div>
+
+
 </div>
 </div>       
 <!-- MAIN CONTENT ENDS -->
