@@ -132,28 +132,28 @@ Other services may also include legal counseling, global initiatives, investment
 </span>
 
 <div class="jumbotron nadj1">
-<center><h2>Keep up with Resource Consulting Pte Ltd</h2></center><br/>
+<center><span class="para-heading">Keep up with Resource Consulting Pte Ltd</span></center><br/>
 <div class="row">
 <div class="col-md-4">
 <div class="row">
   <div class="col-md-2">
 <i class="material-icons">message</i></div>
 <div class="col-md-10">
-<p>Stay up to date with company news</p>
+<span class="para">Stay up to date with company news</span>
 </div></div> </div>
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-2">
 <i class="material-icons">work</i></div>
 <div class="col-md-10">
-<p>Discover new job opportunities</p>
+<span class="para">Discover new job opportunities</span>
 </div></div> </div>
 <div class="col-md-4">
 <div class="row">
   <div class="col-md-2">
   <i class="material-icons">people</i></div>
 <div class="col-md-10">
-<p>See how you're connected to employees</p>
+<span class="para">See how you're connected to employees</span>
 </div></div> </div>
 </div>
 </div>
@@ -163,24 +163,23 @@ Other services may also include legal counseling, global initiatives, investment
 <div class="col-md-8">
 <div class="jumbotron nadj2">
  <img src="images/i6.png" alt="" class="nadi6 img-fluid">
- <p>
+ <span class="para">
  Resource Consulting is a Recruitment and HR Consulting company, offering job search services and strategic people solutions to Multinational Companies and Small-and-Medium Sized Enterprises in Singapore and the Asia Pacific region.
-</p><p>
+
 Our team of experienced and dedicated professionals are committed to provide prompt and reliable services to our clients and candidates. We believe that our acute ability to understand our clients' needs and comprehensive approach to talent acquisition, assessment, management and development, have enabled us to support our clients in making people their sustainable source of competitive advantage.
- </p>
+</span>
 </div>
 </div>
 
 <div class="col-md-4">
 <div class="jumbotron nadj3">
 <i class="material-icons float-right">mail</i>
-<h3>Help recruiters find you</h3>
-<p>
+<span class="para-heading">Help recruiters find you</span>
+<span class="para">
   Members with position get 3 times more profile views
-</p>
-<p>
+
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto ad quo, quidem inventore quod minus molestias sunt! Voluptatem ullam id consequatur impedit ratione quam in error similique aut nulla. Et.
-  Lorem ipsum dolor sasdakjdhja
+  Lorem ipsum dolor sasdakjdhja</span><br/><br/>
 <button href="#" type="button" class="btn btn-primary btn-lg">Update your resume </button>
 </div>
 </div>

@@ -100,8 +100,9 @@ Date:        14/12/17
 </div>
 </div>
 <div class="row">
-<div class="col-md-12"><br/>
-<h1>How It Works</h1><hr>
+<div class="col-md-12">
+<span class="main-heading">How It Works</span>
+<hr>
 <img src="images/workflow.png" class="wfimg img-fluid"><br><hr>
 
 <div class="container-fluid">
@@ -113,9 +114,9 @@ Date:        14/12/17
 <img src="images/h1.png" class="img-fluid">
 </div>
 <div class="col-md-8">
-<h5>Your Learning Manager Gets in Touch with You</h5>
-<p>Share your learning objectives and get oriented with our web and mobile platform. Talk to your personal learning 
-manager to clarify your doubts.</p>
+<span class="para-heading">Your Learning Manager Gets in Touch with You</span>
+<span class="para">Share your learning objectives and get oriented with our web and mobile platform. Talk to your personal learning 
+manager to clarify your doubts.</span>
 </div>
 </div>
 </div>
@@ -125,9 +126,9 @@ manager to clarify your doubts.</p>
 <img src="images/h2.png" class="img-fluid">
 </div>
 <div class="col-md-8">
-<h5>Live Interactive Online Session with Your Instructor</h5>
-<p>Live screensharing, step-by-step live demonstrations and live Q&A led by industry experts. 
-Missed a class? Not an issue. We record the classes and upload them to your LMS.</p>
+<span class="para-heading">Live Interactive Online Session with Your Instructor</span>
+<span class="para">Live screensharing, step-by-step live demonstrations and live Q&A led by industry experts. 
+Missed a class? Not an issue. We record the classes and upload them to your LMS.</span>
 </div>
 </div>
 </div>
@@ -137,9 +138,9 @@ Missed a class? Not an issue. We record the classes and upload them to your LMS.
 <div class="col-md-6">
 <div class="row">
 <div class="col-md-8">
-<h5>Access our Extensive Learning Repository</h5>
-<p>We have pre-populated your learning platform with previous class recordings and presentations. 
-You will have life time access to Edureka's Learning Repository.</p>
+<span class="para-heading">Access our Extensive Learning Repository</span>
+<span class="para">We have pre-populated your learning platform with previous class recordings and presentations. 
+You will have life time access to Edureka's Learning Repository.</span>
 </div>
 <div class="col-md-4">
 <img src="images/h3.png" class="img-fluid">
@@ -149,9 +150,9 @@ You will have life time access to Edureka's Learning Repository.</p>
 <div class="col-md-6">
 <div class="row">
 <div class="col-md-8">
-<h5>It’s Not Just about the Classes, We Make Sure You Practice</h5>
-<p>Quizzes & Assignments help you understand the concepts and solve problems Weekly Assignments & Quizzes are pre-loaded 
-in your learning platform.</p>
+<span class="para-heading">It’s Not Just about the Classes, We Make Sure You Practice</span>
+<span class="para">Quizzes & Assignments help you understand the concepts and solve problems Weekly Assignments & Quizzes are pre-loaded 
+in your learning platform.</span>
 </div>
 <div class="col-md-4">
 <img src="images/h4.png" class="img-fluid">
@@ -167,9 +168,9 @@ in your learning platform.</p>
 <img src="images/h5.png" class="img-fluid">
 </div>
 <div class="col-md-8">
-<h5>Have a problem? Our Support Ninjas Are There to Help You 24 X 7</h5>
-<p>We have in-house expert Teaching Assistants to resolve all your queries. 
-Reach out to us by raising a ticket from your learning platform. Edureka provides life time learning assistance.</p>
+<span class="para-heading">Have a problem? Our Support Ninjas Are There to Help You 24 X 7</span>
+<span class="para">We have in-house expert Teaching Assistants to resolve all your queries. 
+Reach out to us by raising a ticket from your learning platform. Edureka provides life time learning assistance.</span>
 </div>
 </div>
 </div>
@@ -179,9 +180,9 @@ Reach out to us by raising a ticket from your learning platform. Edureka provide
 <img src="images/h6.png" class="img-fluid">
 </div>
 <div class="col-md-8">
-<h5>Solve an Industry Live Use Case</h5>
-<p>Projects developed by industry experts gives you a experience 
-of the real-world problems you will be solving in the corporate world</p>
+<span class="para-heading">Solve an Industry Live Use Case</span>
+<span class="para">Projects developed by industry experts gives you a experience 
+of the real-world problems you will be solving in the corporate world</span>
 </div>
 </div>
 </div>
@@ -191,9 +192,9 @@ of the real-world problems you will be solving in the corporate world</p>
 <div class="col-md-6">
 <div class="row">
 <div class="col-md-8">
-<h5>Engage & Interact within Edureka's Learner Community</h5>
-<p>Your learning portal has a discussion forum for a lively interaction among learners across batches. 
-Get life time access to the Learner communtiy and make the most out it</p>
+<span class="para-heading">Engage & Interact within Edureka's Learner Community</span>
+<span class="para">Your learning portal has a discussion forum for a lively interaction among learners across batches. 
+Get life time access to the Learner communtiy and make the most out it</span>
 </div>
 <div class="col-md-4">
 <img src="images/h7.png" class="img-fluid">
@@ -203,9 +204,9 @@ Get life time access to the Learner communtiy and make the most out it</p>
 <div class="col-md-6">
 <div class="row">
 <div class="col-md-8">
-<h5>Get Certified and Fast Track Your Career Growth</h5>
-<p>Earn a valued certificate. 
-Get help in creation of a professionally written CV & Guidance for interview preparation & questions</p>
+<span class="para-heading">Get Certified and Fast Track Your Career Growth</span>
+<span class="para">Earn a valued certificate. 
+Get help in creation of a professionally written CV & Guidance for interview preparation & questions</span>
 </div>
 <div class="col-md-4">
 <img src="images/h8.png" class="img-fluid">
@@ -220,48 +221,121 @@ Get help in creation of a professionally written CV & Guidance for interview pre
 <div class="row">
 <div class="col-md-4">
 <div class="jumbotron nadj">
-<h4>Step 1</h4>
-<p>What is Lorem Ipsum?
+<span class="para-heading">Step 1</span>
+<span class="para">What is Lorem Ipsum?
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has  of Lorem Ipsum.
-</p>
+</span>
 </div>
 </div>
 <div class="col-md-4">
 <div class="jumbotron nadj">
-<h4>Step 2</h4>
-<p>What is Lorem Ipsum?
+<span class="para-heading">Step 2</span>
+<span class="para">What is Lorem Ipsum?
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has  of Lorem Ipsum.
-</p>
+</span>
 </div>
 </div>
 <div class="col-md-4">
 <div class="jumbotron nadj">
-<h4>Step 3</h4>
-<p>What is Lorem Ipsum?
+<span class="para-heading">Step 3</span>
+<span class="para">What is Lorem Ipsum?
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has  of Lorem Ipsum.
-</p>
+</span>
 </div>
 </div>
 </div>
 </div>
 <hr>
 <div class="col-md-12">
-<h2>Documentation</h2>
-<p>
+<span class="sub-heading">Documentation</span>
+<span class="para">
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius culpa, nisi officia laboriosam quis aperiam quod odio delectus dolores ab doloribus quasi impedit perspiciatis dolorum. Tenetur esse architecto officiis explicabo.
   Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam ex quam asperiores vitae, libero repellendus incidunt debitis quasi tempore similique, suscipit sunt possimus esse quia totam ullam odio delectus officiis!
   Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae minima reiciendis placeat officiis voluptatem ullam quisquam, voluptatibus sapiente omnis possimus? Porro repellat minima nostrum, facere quo esse at tenetur consequuntur?
-  </p>
-  <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea sit nesciunt, veritatis, deleniti adipisci iusto corrupti dicta ratione inventore dolorem eveniet quisquam eum eligendi dignissimos enim, blanditiis saepe
+</span><br/>
+  <span class="para"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea sit nesciunt, veritatis, deleniti adipisci iusto corrupti dicta ratione inventore dolorem eveniet quisquam eum eligendi dignissimos enim, blanditiis saepe
      eaque cupiditate.
      Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis voluptates qui dolorum quis nemo ratione eius praesentium, magni odio, est provident, veritatis enim nulla. Alias amet eaque quas repellat obcaecati!
      Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima optio illo, nisi blanditiis placeat iste? Maxime hic nemo doloribus accusantium, aspernatur magni soluta, fugit, quis mollitia expedita culpa nisi ab. 
-</p>
+</span>
+<hr>
 </div>
 
 <div class="container-fluid">
-<h3>The SUCO Advantage</h3>
-<div class="col-md-6">
+<center><span class="para-heading">The SUCO Advantage</span></center>
+<div class="row">
+
+<div class="col-md-4">
+<div class="card" style="width: 20rem;">
+  <img class="card-img-top" src="images/advantage1.jpg" alt="Card image cap">
+  <div class="card-body">
+    <span class="para-heading">Card title</span>
+    <span class="para">Some quick example text to build on the card title and make up the bulk of the card's content.</span>
+  </div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card" style="width: 20rem;">
+  <img class="card-img-top" src="images/advantage1.jpg" alt="Card image cap">
+  <div class="card-body">
+    <span class="para-heading">Card title</span>
+    <span class="para">Some quick example text to build on the card title and make up the bulk of the card's content.</span>
+  </div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card" style="width: 20rem;">
+  <img class="card-img-top" src="images/advantage1.jpg" alt="Card image cap">
+  <div class="card-body">
+    <span class="para-heading">Card title</span>
+    <span class="para">Some quick example text to build on the card title and make up the bulk of the card's content.</span>
+  </div>
+</div>
+</div>
+
+
+</div>
+
+<div class="row">
+
+<div class="col-md-4">
+<div class="card" style="width: 20rem;">
+  <img class="card-img-top" src="images/advantage1.jpg" alt="Card image cap">
+  <div class="card-body">
+    <span class="para-heading">Card title</span>
+    <span class="para">Some quick example text to build on the card title and make up the bulk of the card's content.
+    </span>
+  </div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card" style="width: 20rem;">
+  <img class="card-img-top" src="images/advantage1.jpg" alt="Card image cap">
+  <div class="card-body">
+    <span class="para-heading">Card title</span>
+    <span class="para">Some quick example text to build on the card title and make up the bulk of the card's content.
+    </span>
+  </div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card" style="width: 20rem;">
+  <img class="card-img-top" src="images/advantage1.jpg" alt="Card image cap">
+  <div class="card-body">
+    <span class="para-heading">Card title</span>
+    <span class="para">Some quick example text to build on the card title and make up the bulk of the card's content.
+    </span>
+  </div>
+</div>
+</div>
+
+
+</div>
+<hr>
 </div>       
 <!-- MAIN CONTENT ENDS -->
 	
